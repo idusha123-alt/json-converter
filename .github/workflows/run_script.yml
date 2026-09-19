@@ -5,6 +5,9 @@ on:
     branches: [ main ] # Runs every time you push code to the main branch
   workflow_dispatch: # Allows you to run it manually with a button click
 
+permissions:
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
