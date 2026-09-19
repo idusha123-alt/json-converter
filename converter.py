@@ -83,4 +83,4 @@ def convert_txt_to_json(input_txt_path, output_json_path):
 # Run the script
 if __name__ == "__main__":
     # Replace these paths with your actual filenames
-    convert_txt_to_json("french_words.txt", "french_frequency.json")
+    convert_txt_to_json("list.txt", "french_frequency.json")
