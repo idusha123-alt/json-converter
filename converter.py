@@ -2,6 +2,8 @@ import json
 import re
 import time
 import requests
+import re
+from deep_translator import GoogleTranslator
 
 def convert_txt_to_json(input_txt_path, output_json_path):
     # Read and clean lines from the text file
