@@ -1,4 +1,4 @@
-yamlname: Run French Converter
+name: Run French Converter
 
 on:
   push:
