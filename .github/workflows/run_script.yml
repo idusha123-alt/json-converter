@@ -35,4 +35,4 @@ jobs:
         git config --global user.email "github-actions[bot]@://github.com"
         git add french_frequency.json
         git commit -m "Automated: Updated French vocabulary JSON" || exit 0
-        git push
+        git push || (git pull --rebase && git push)
