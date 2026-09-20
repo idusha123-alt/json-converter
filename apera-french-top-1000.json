@@ -1,0 +1,4002 @@
+{
+  "1": {
+    "english": "of/from",
+    "french": "de"
+  },
+  "2": {
+    "english": "I",
+    "french": "je"
+  },
+  "3": {
+    "english": "is",
+    "french": "est"
+  },
+  "4": {
+    "english": "not",
+    "french": "pas"
+  },
+  "5": {
+    "english": "the",
+    "french": "le"
+  },
+  "6": {
+    "english": "that",
+    "french": "que"
+  },
+  "7": {
+    "english": "the",
+    "french": "la"
+  },
+  "8": {
+    "english": "you",
+    "french": "vous"
+  },
+  "9": {
+    "english": "you",
+    "french": "tu"
+  },
+  "10": {
+    "english": "a/one",
+    "french": "un"
+  },
+  "11": {
+    "english": "to/at",
+    "french": "à"
+  },
+  "12": {
+    "english": "and",
+    "french": "et"
+  },
+  "13": {
+    "english": "he",
+    "french": "il"
+  },
+  "14": {
+    "english": "has",
+    "french": "a"
+  },
+  "15": {
+    "english": "not",
+    "french": "ne"
+  },
+  "16": {
+    "english": "the",
+    "french": "les"
+  },
+  "17": {
+    "english": "in/of it",
+    "french": "en"
+  },
+  "18": {
+    "english": "we/one",
+    "french": "on"
+  },
+  "19": {
+    "english": "that",
+    "french": "ça"
+  },
+  "20": {
+    "english": "a",
+    "french": "une"
+  },
+  "21": {
+    "english": "this/that",
+    "french": "ce"
+  },
+  "22": {
+    "english": "for",
+    "french": "pour"
+  },
+  "23": {
+    "english": "have",
+    "french": "ai"
+  },
+  "24": {
+    "english": "some",
+    "french": "des"
+  },
+  "25": {
+    "english": "who",
+    "french": "qui"
+  },
+  "26": {
+    "english": "but",
+    "french": "mais"
+  },
+  "27": {
+    "english": "in",
+    "french": "dans"
+  },
+  "28": {
+    "english": "we",
+    "french": "nous"
+  },
+  "29": {
+    "english": "she",
+    "french": "elle"
+  },
+  "30": {
+    "english": "me",
+    "french": "me"
+  },
+  "31": {
+    "english": "well",
+    "french": "bien"
+  },
+  "32": {
+    "english": "if",
+    "french": "si"
+  },
+  "33": {
+    "english": "of the/some",
+    "french": "du"
+  },
+  "34": {
+    "english": "there/it",
+    "french": "y"
+  },
+  "35": {
+    "english": "am",
+    "french": "suis"
+  },
+  "36": {
+    "english": "no",
+    "french": "non"
+  },
+  "37": {
+    "english": "with",
+    "french": "avec"
+  },
+  "38": {
+    "english": "all/everything",
+    "french": "tout"
+  },
+  "39": {
+    "english": "more",
+    "french": "plus"
+  },
+  "40": {
+    "english": "my",
+    "french": "mon"
+  },
+  "41": {
+    "english": "you",
+    "french": "te"
+  },
+  "42": {
+    "english": "to the",
+    "french": "au"
+  },
+  "43": {
+    "english": "done/made",
+    "french": "fait"
+  },
+  "44": {
+    "english": "me",
+    "french": "moi"
+  },
+  "45": {
+    "english": "yes",
+    "french": "oui"
+  },
+  "46": {
+    "english": "goes",
+    "french": "va"
+  },
+  "47": {
+    "english": "was",
+    "french": "était"
+  },
+  "48": {
+    "english": "have",
+    "french": "as"
+  },
+  "49": {
+    "english": "to do/make",
+    "french": "faire"
+  },
+  "50": {
+    "english": "they",
+    "french": "ils"
+  },
+  "51": {
+    "english": "on",
+    "french": "sur"
+  },
+  "52": {
+    "english": "what",
+    "french": "quoi"
+  },
+  "53": {
+    "english": "himself/herself",
+    "french": "se"
+  },
+  "54": {
+    "english": "as/like",
+    "french": "comme"
+  },
+  "55": {
+    "english": "know",
+    "french": "sais"
+  },
+  "56": {
+    "english": "to be",
+    "french": "être"
+  },
+  "57": {
+    "english": "want",
+    "french": "veux"
+  },
+  "58": {
+    "english": "here",
+    "french": "ici"
+  },
+  "59": {
+    "english": "my",
+    "french": "ma"
+  },
+  "60": {
+    "english": "you",
+    "french": "toi"
+  },
+  "61": {
+    "english": "says/said",
+    "french": "dit"
+  },
+  "62": {
+    "english": "him/her",
+    "french": "lui"
+  },
+  "63": {
+    "english": "your",
+    "french": "votre"
+  },
+  "64": {
+    "english": "are",
+    "french": "es"
+  },
+  "65": {
+    "english": "why",
+    "french": "pourquoi"
+  },
+  "66": {
+    "english": "where",
+    "french": "où"
+  },
+  "67": {
+    "english": "there",
+    "french": "là"
+  },
+  "68": {
+    "english": "nothing",
+    "french": "rien"
+  },
+  "69": {
+    "english": "this",
+    "french": "cette"
+  },
+  "70": {
+    "english": "are",
+    "french": "sont"
+  },
+  "71": {
+    "english": "when",
+    "french": "quand"
+  },
+  "72": {
+    "english": "can",
+    "french": "peux"
+  },
+  "73": {
+    "english": "to say",
+    "french": "dire"
+  },
+  "74": {
+    "english": "his/her",
+    "french": "son"
+  },
+  "75": {
+    "english": "have",
+    "french": "avez"
+  },
+  "76": {
+    "english": "go",
+    "french": "vais"
+  },
+  "77": {
+    "english": "then/so",
+    "french": "alors"
+  },
+  "78": {
+    "english": "your",
+    "french": "ton"
+  },
+  "79": {
+    "english": "how",
+    "french": "comment"
+  },
+  "80": {
+    "english": "by/through",
+    "french": "par"
+  },
+  "81": {
+    "english": "or",
+    "french": "ou"
+  },
+  "82": {
+    "english": "thing",
+    "french": "chose"
+  },
+  "83": {
+    "english": "good",
+    "french": "bon"
+  },
+  "84": {
+    "english": "have",
+    "french": "ont"
+  },
+  "85": {
+    "english": "thank you",
+    "french": "merci"
+  },
+  "86": {
+    "english": "just",
+    "french": "juste"
+  },
+  "87": {
+    "english": "very",
+    "french": "très"
+  },
+  "88": {
+    "english": "never",
+    "french": "jamais"
+  },
+  "89": {
+    "english": "been",
+    "french": "été"
+  },
+  "90": {
+    "english": "also/too",
+    "french": "aussi"
+  },
+  "91": {
+    "english": "to have",
+    "french": "avoir"
+  },
+  "92": {
+    "english": "really",
+    "french": "vraiment"
+  },
+  "93": {
+    "english": "to see",
+    "french": "voir"
+  },
+  "94": {
+    "english": "same/even",
+    "french": "même"
+  },
+  "95": {
+    "english": "his/her",
+    "french": "sa"
+  },
+  "96": {
+    "english": "oh",
+    "french": "oh"
+  },
+  "97": {
+    "english": "now",
+    "french": "maintenant"
+  },
+  "98": {
+    "english": "all",
+    "french": "tous"
+  },
+  "99": {
+    "english": "can",
+    "french": "peut"
+  },
+  "100": {
+    "english": "two",
+    "french": "deux"
+  },
+  "101": {
+    "english": "these",
+    "french": "ces"
+  },
+  "102": {
+    "english": "are",
+    "french": "êtes"
+  },
+  "103": {
+    "english": "go",
+    "french": "allez"
+  },
+  "104": {
+    "english": "your",
+    "french": "ta"
+  },
+  "105": {
+    "english": "other",
+    "french": "autre"
+  },
+  "106": {
+    "english": "little/few",
+    "french": "peu"
+  },
+  "107": {
+    "english": "time",
+    "french": "temps"
+  },
+  "108": {
+    "english": "some",
+    "french": "quelque"
+  },
+  "109": {
+    "english": "do/make",
+    "french": "fais"
+  },
+  "110": {
+    "english": "always",
+    "french": "toujours"
+  },
+  "111": {
+    "english": "again",
+    "french": "encore"
+  },
+  "112": {
+    "english": "our",
+    "french": "notre"
+  },
+  "113": {
+    "english": "my",
+    "french": "mes"
+  },
+  "114": {
+    "english": "need",
+    "french": "besoin"
+  },
+  "115": {
+    "english": "had",
+    "french": "avait"
+  },
+  "116": {
+    "english": "agreement",
+    "french": "accord"
+  },
+  "117": {
+    "english": "must/necessary",
+    "french": "faut"
+  },
+  "118": {
+    "english": "must",
+    "french": "dois"
+  },
+  "119": {
+    "english": "life",
+    "french": "vie"
+  },
+  "120": {
+    "english": "to go",
+    "french": "aller"
+  },
+  "121": {
+    "english": "time (occurrence)",
+    "french": "fois"
+  },
+  "122": {
+    "english": "seen",
+    "french": "vu"
+  },
+  "123": {
+    "english": "so/therefore",
+    "french": "donc"
+  },
+  "124": {
+    "english": "without",
+    "french": "sans"
+  },
+  "125": {
+    "english": "world",
+    "french": "monde"
+  },
+  "126": {
+    "english": "was",
+    "french": "étais"
+  },
+  "127": {
+    "english": "because",
+    "french": "parce"
+  },
+  "128": {
+    "english": "before",
+    "french": "avant"
+  },
+  "129": {
+    "english": "sure",
+    "french": "sûr"
+  },
+  "130": {
+    "english": "too much",
+    "french": "trop"
+  },
+  "131": {
+    "english": "to speak",
+    "french": "parler"
+  },
+  "132": {
+    "english": "person",
+    "french": "personne"
+  },
+  "133": {
+    "english": "had",
+    "french": "avais"
+  },
+  "134": {
+    "english": "father",
+    "french": "père"
+  },
+  "135": {
+    "english": "believe",
+    "french": "crois"
+  },
+  "136": {
+    "english": "after",
+    "french": "après"
+  },
+  "137": {
+    "english": "to the",
+    "french": "aux"
+  },
+  "138": {
+    "english": "god",
+    "french": "dieu"
+  },
+  "139": {
+    "english": "yeah",
+    "french": "ouais"
+  },
+  "140": {
+    "english": "his/her",
+    "french": "ses"
+  },
+  "141": {
+    "english": "thinks",
+    "french": "pense"
+  },
+  "142": {
+    "english": "had",
+    "french": "eu"
+  },
+  "143": {
+    "english": "loves/likes",
+    "french": "aime"
+  },
+  "144": {
+    "english": "their/them",
+    "french": "leur"
+  },
+  "145": {
+    "english": "man",
+    "french": "homme"
+  },
+  "146": {
+    "english": "come",
+    "french": "viens"
+  },
+  "147": {
+    "english": "true",
+    "french": "vrai"
+  },
+  "148": {
+    "english": "woman",
+    "french": "femme"
+  },
+  "149": {
+    "english": "ok",
+    "french": "ok"
+  },
+  "150": {
+    "english": "must",
+    "french": "doit"
+  },
+  "151": {
+    "english": "wants",
+    "french": "veut"
+  },
+  "152": {
+    "english": "years",
+    "french": "ans"
+  },
+  "153": {
+    "english": "badly",
+    "french": "mal"
+  },
+  "154": {
+    "english": "at (someone's place)",
+    "french": "chez"
+  },
+  "155": {
+    "english": "already",
+    "french": "déjà"
+  },
+  "156": {
+    "english": "since",
+    "french": "depuis"
+  },
+  "157": {
+    "english": "a lot/much",
+    "french": "beaucoup"
+  },
+  "158": {
+    "english": "your",
+    "french": "vos"
+  },
+  "159": {
+    "english": "good",
+    "french": "bonne"
+  },
+  "160": {
+    "english": "dead",
+    "french": "mort"
+  },
+  "161": {
+    "english": "better",
+    "french": "mieux"
+  },
+  "162": {
+    "english": "go",
+    "french": "vas"
+  },
+  "163": {
+    "english": "mother",
+    "french": "mère"
+  },
+  "164": {
+    "english": "will be",
+    "french": "sera"
+  },
+  "165": {
+    "english": "say",
+    "french": "dis"
+  },
+  "166": {
+    "english": "girl",
+    "french": "fille"
+  },
+  "167": {
+    "english": "your",
+    "french": "tes"
+  },
+  "168": {
+    "english": "people",
+    "french": "gens"
+  },
+  "169": {
+    "english": "which/what",
+    "french": "quel"
+  },
+  "170": {
+    "english": "see",
+    "french": "vois"
+  },
+  "171": {
+    "english": "sorry",
+    "french": "désolé"
+  },
+  "172": {
+    "english": "there it is",
+    "french": "voilà"
+  },
+  "173": {
+    "english": "have",
+    "french": "avons"
+  },
+  "174": {
+    "english": "small",
+    "french": "petit"
+  },
+  "175": {
+    "english": "house",
+    "french": "maison"
+  },
+  "176": {
+    "english": "be (it may be)",
+    "french": "soit"
+  },
+  "177": {
+    "english": "that",
+    "french": "cela"
+  },
+  "178": {
+    "english": "others",
+    "french": "autres"
+  },
+  "179": {
+    "english": "all",
+    "french": "toute"
+  },
+  "180": {
+    "english": "evening",
+    "french": "soir"
+  },
+  "181": {
+    "english": "past",
+    "french": "passé"
+  },
+  "182": {
+    "english": "to take",
+    "french": "prendre"
+  },
+  "183": {
+    "english": "day",
+    "french": "jour"
+  },
+  "184": {
+    "english": "mister",
+    "french": "monsieur"
+  },
+  "185": {
+    "english": "our",
+    "french": "nos"
+  },
+  "186": {
+    "english": "to know",
+    "french": "savoir"
+  },
+  "187": {
+    "english": "things",
+    "french": "choses"
+  },
+  "188": {
+    "english": "hi",
+    "french": "salut"
+  },
+  "189": {
+    "english": "this",
+    "french": "cet"
+  },
+  "190": {
+    "english": "name",
+    "french": "nom"
+  },
+  "191": {
+    "english": "money",
+    "french": "argent"
+  },
+  "192": {
+    "english": "hello",
+    "french": "bonjour"
+  },
+  "193": {
+    "english": "night",
+    "french": "nuit"
+  },
+  "194": {
+    "english": "reason",
+    "french": "raison"
+  },
+  "195": {
+    "english": "less",
+    "french": "moins"
+  },
+  "196": {
+    "english": "arrives",
+    "french": "arrive"
+  },
+  "197": {
+    "english": "mom",
+    "french": "maman"
+  },
+  "198": {
+    "english": "remains",
+    "french": "reste"
+  },
+  "199": {
+    "english": "moment",
+    "french": "moment"
+  },
+  "200": {
+    "english": "wanted",
+    "french": "voulais"
+  },
+  "201": {
+    "english": "alone",
+    "french": "seul"
+  },
+  "202": {
+    "english": "to help",
+    "french": "aider"
+  },
+  "203": {
+    "english": "air",
+    "french": "air"
+  },
+  "204": {
+    "english": "between",
+    "french": "entre"
+  },
+  "205": {
+    "english": "dad",
+    "french": "papa"
+  },
+  "206": {
+    "english": "passes",
+    "french": "passe"
+  },
+  "207": {
+    "english": "would have",
+    "french": "aurais"
+  },
+  "208": {
+    "english": "problem",
+    "french": "problème"
+  },
+  "209": {
+    "english": "ah",
+    "french": "ah"
+  },
+  "210": {
+    "english": "fear",
+    "french": "peur"
+  },
+  "211": {
+    "english": "looks/watches",
+    "french": "regarde"
+  },
+  "212": {
+    "english": "want",
+    "french": "voulez"
+  },
+  "213": {
+    "english": "guy",
+    "french": "gars"
+  },
+  "214": {
+    "english": "found",
+    "french": "trouvé"
+  },
+  "215": {
+    "english": "son",
+    "french": "fils"
+  },
+  "216": {
+    "english": "wait",
+    "french": "attends"
+  },
+  "217": {
+    "english": "know",
+    "french": "savez"
+  },
+  "218": {
+    "english": "to find",
+    "french": "trouver"
+  },
+  "219": {
+    "english": "three",
+    "french": "trois"
+  },
+  "220": {
+    "english": "enough",
+    "french": "assez"
+  },
+  "221": {
+    "english": "family",
+    "french": "famille"
+  },
+  "222": {
+    "english": "had to",
+    "french": "dû"
+  },
+  "223": {
+    "english": "eh",
+    "french": "eh"
+  },
+  "224": {
+    "english": "all",
+    "french": "toutes"
+  },
+  "225": {
+    "english": "pleases",
+    "french": "plaît"
+  },
+  "226": {
+    "english": "could",
+    "french": "pourrait"
+  },
+  "227": {
+    "english": "work",
+    "french": "travail"
+  },
+  "228": {
+    "english": "taken",
+    "french": "pris"
+  },
+  "229": {
+    "english": "could",
+    "french": "pu"
+  },
+  "230": {
+    "english": "head",
+    "french": "tête"
+  },
+  "231": {
+    "english": "which/what",
+    "french": "quelle"
+  },
+  "232": {
+    "english": "knows",
+    "french": "sait"
+  },
+  "233": {
+    "english": "are",
+    "french": "sommes"
+  },
+  "234": {
+    "english": "calls",
+    "french": "appelle"
+  },
+  "235": {
+    "english": "a few",
+    "french": "quelques"
+  },
+  "236": {
+    "english": "do/make",
+    "french": "faites"
+  },
+  "237": {
+    "english": "to leave",
+    "french": "partir"
+  },
+  "238": {
+    "english": "quickly",
+    "french": "vite"
+  },
+  "239": {
+    "english": "stop",
+    "french": "arrête"
+  },
+  "240": {
+    "english": "alone",
+    "french": "seule"
+  },
+  "241": {
+    "english": "would be",
+    "french": "serait"
+  },
+  "242": {
+    "english": "car",
+    "french": "voiture"
+  },
+  "243": {
+    "english": "children",
+    "french": "enfants"
+  },
+  "244": {
+    "english": "to kill",
+    "french": "tuer"
+  },
+  "245": {
+    "english": "shit",
+    "french": "merde"
+  },
+  "246": {
+    "english": "hey",
+    "french": "hé"
+  },
+  "247": {
+    "english": "during",
+    "french": "pendant"
+  },
+  "248": {
+    "english": "idea",
+    "french": "idée"
+  },
+  "249": {
+    "english": "luck",
+    "french": "chance"
+  },
+  "250": {
+    "english": "speaks",
+    "french": "parle"
+  },
+  "251": {
+    "english": "would have",
+    "french": "aurait"
+  },
+  "252": {
+    "english": "part/share",
+    "french": "part"
+  },
+  "253": {
+    "english": "they",
+    "french": "elles"
+  },
+  "254": {
+    "english": "days",
+    "french": "jours"
+  },
+  "255": {
+    "english": "big",
+    "french": "grand"
+  },
+  "256": {
+    "english": "to come",
+    "french": "venir"
+  },
+  "257": {
+    "english": "friend",
+    "french": "ami"
+  },
+  "258": {
+    "english": "tomorrow",
+    "french": "demain"
+  },
+  "259": {
+    "english": "huh",
+    "french": "hein"
+  },
+  "260": {
+    "english": "late",
+    "french": "tard"
+  },
+  "261": {
+    "english": "then",
+    "french": "puis"
+  },
+  "262": {
+    "english": "thing",
+    "french": "truc"
+  },
+  "263": {
+    "english": "to pass",
+    "french": "passer"
+  },
+  "264": {
+    "english": "small",
+    "french": "petite"
+  },
+  "265": {
+    "english": "so much",
+    "french": "tant"
+  },
+  "266": {
+    "english": "know",
+    "french": "connais"
+  },
+  "267": {
+    "english": "how much/many",
+    "french": "combien"
+  },
+  "268": {
+    "english": "guy",
+    "french": "mec"
+  },
+  "269": {
+    "english": "sense",
+    "french": "sens"
+  },
+  "270": {
+    "english": "can",
+    "french": "pouvez"
+  },
+  "271": {
+    "english": "door",
+    "french": "porte"
+  },
+  "272": {
+    "english": "to go out",
+    "french": "sortir"
+  },
+  "273": {
+    "english": "great",
+    "french": "super"
+  },
+  "274": {
+    "english": "hour",
+    "french": "heure"
+  },
+  "275": {
+    "english": "against",
+    "french": "contre"
+  },
+  "276": {
+    "english": "blow/strike",
+    "french": "coup"
+  },
+  "277": {
+    "english": "understand",
+    "french": "comprends"
+  },
+  "278": {
+    "english": "heard",
+    "french": "entendu"
+  },
+  "279": {
+    "english": "comes",
+    "french": "vient"
+  },
+  "280": {
+    "english": "let's go",
+    "french": "allons"
+  },
+  "281": {
+    "english": "together",
+    "french": "ensemble"
+  },
+  "282": {
+    "english": "new",
+    "french": "nouveau"
+  },
+  "283": {
+    "english": "love",
+    "french": "amour"
+  },
+  "284": {
+    "english": "matters",
+    "french": "importe"
+  },
+  "285": {
+    "english": "blood",
+    "french": "sang"
+  },
+  "286": {
+    "english": "sorry",
+    "french": "désolée"
+  },
+  "287": {
+    "english": "case",
+    "french": "cas"
+  },
+  "288": {
+    "english": "under",
+    "french": "sous"
+  },
+  "289": {
+    "english": "to stay",
+    "french": "rester"
+  },
+  "290": {
+    "english": "friends",
+    "french": "amis"
+  },
+  "291": {
+    "english": "take",
+    "french": "prends"
+  },
+  "292": {
+    "english": "finished",
+    "french": "fini"
+  },
+  "293": {
+    "english": "men",
+    "french": "hommes"
+  },
+  "294": {
+    "english": "killed",
+    "french": "tué"
+  },
+  "295": {
+    "english": "question",
+    "french": "question"
+  },
+  "296": {
+    "english": "part",
+    "french": "partie"
+  },
+  "297": {
+    "english": "story",
+    "french": "histoire"
+  },
+  "298": {
+    "english": "should",
+    "french": "devrais"
+  },
+  "299": {
+    "english": "help",
+    "french": "aide"
+  },
+  "300": {
+    "english": "last",
+    "french": "dernière"
+  },
+  "301": {
+    "english": "asks",
+    "french": "demande"
+  },
+  "302": {
+    "english": "to look for",
+    "french": "chercher"
+  },
+  "303": {
+    "english": "thought",
+    "french": "pensais"
+  },
+  "304": {
+    "english": "kind/type",
+    "french": "genre"
+  },
+  "305": {
+    "english": "only",
+    "french": "seulement"
+  },
+  "306": {
+    "english": "police",
+    "french": "police"
+  },
+  "307": {
+    "english": "because",
+    "french": "car"
+  },
+  "308": {
+    "english": "month",
+    "french": "mois"
+  },
+  "309": {
+    "english": "brother",
+    "french": "frère"
+  },
+  "310": {
+    "english": "to let/leave",
+    "french": "laisser"
+  },
+  "311": {
+    "english": "no/none",
+    "french": "aucun"
+  },
+  "312": {
+    "english": "to put",
+    "french": "mettre"
+  },
+  "313": {
+    "english": "them",
+    "french": "eux"
+  },
+  "314": {
+    "english": "lets",
+    "french": "laisse"
+  },
+  "315": {
+    "english": "each",
+    "french": "chaque"
+  },
+  "316": {
+    "english": "city",
+    "french": "ville"
+  },
+  "317": {
+    "english": "arrived",
+    "french": "arrivé"
+  },
+  "318": {
+    "english": "should",
+    "french": "devrait"
+  },
+  "319": {
+    "english": "spoken",
+    "french": "parlé"
+  },
+  "320": {
+    "english": "go",
+    "french": "vont"
+  },
+  "321": {
+    "english": "a long time",
+    "french": "longtemps"
+  },
+  "322": {
+    "english": "no/none",
+    "french": "aucune"
+  },
+  "323": {
+    "english": "hours",
+    "french": "heures"
+  },
+  "324": {
+    "english": "baby",
+    "french": "bébé"
+  },
+  "325": {
+    "english": "place",
+    "french": "place"
+  },
+  "326": {
+    "english": "to see again",
+    "french": "revoir"
+  },
+  "327": {
+    "english": "damn/whore",
+    "french": "putain"
+  },
+  "328": {
+    "english": "understood",
+    "french": "compris"
+  },
+  "329": {
+    "english": "neither/nor",
+    "french": "ni"
+  },
+  "330": {
+    "english": "knew",
+    "french": "savais"
+  },
+  "331": {
+    "english": "their",
+    "french": "leurs"
+  },
+  "332": {
+    "english": "were",
+    "french": "étaient"
+  },
+  "333": {
+    "english": "attention",
+    "french": "attention"
+  },
+  "334": {
+    "english": "to give",
+    "french": "donner"
+  },
+  "335": {
+    "english": "matter/business",
+    "french": "affaire"
+  },
+  "336": {
+    "english": "place",
+    "french": "endroit"
+  },
+  "337": {
+    "english": "could",
+    "french": "pourrais"
+  },
+  "338": {
+    "english": "body",
+    "french": "corps"
+  },
+  "339": {
+    "english": "way/manner",
+    "french": "façon"
+  },
+  "340": {
+    "english": "given",
+    "french": "donné"
+  },
+  "341": {
+    "english": "here is",
+    "french": "voici"
+  },
+  "342": {
+    "english": "train",
+    "french": "train"
+  },
+  "343": {
+    "english": "whose/of which",
+    "french": "dont"
+  },
+  "344": {
+    "english": "listens",
+    "french": "écoute"
+  },
+  "345": {
+    "english": "eyes",
+    "french": "yeux"
+  },
+  "346": {
+    "english": "finds",
+    "french": "trouve"
+  },
+  "347": {
+    "english": "to be able to",
+    "french": "pouvoir"
+  },
+  "348": {
+    "english": "type",
+    "french": "type"
+  },
+  "349": {
+    "english": "lost",
+    "french": "perdu"
+  },
+  "350": {
+    "english": "first",
+    "french": "premier"
+  },
+  "351": {
+    "english": "first",
+    "french": "première"
+  },
+  "352": {
+    "english": "side",
+    "french": "côté"
+  },
+  "353": {
+    "english": "point",
+    "french": "point"
+  },
+  "354": {
+    "english": "so much",
+    "french": "tellement"
+  },
+  "355": {
+    "english": "hand",
+    "french": "main"
+  },
+  "356": {
+    "english": "hold",
+    "french": "tiens"
+  },
+  "357": {
+    "english": "be",
+    "french": "sois"
+  },
+  "358": {
+    "english": "child",
+    "french": "enfant"
+  },
+  "359": {
+    "english": "old",
+    "french": "vieux"
+  },
+  "360": {
+    "english": "morning",
+    "french": "matin"
+  },
+  "361": {
+    "english": "come",
+    "french": "venu"
+  },
+  "362": {
+    "english": "pardon",
+    "french": "pardon"
+  },
+  "363": {
+    "english": "continuation",
+    "french": "suite"
+  },
+  "364": {
+    "english": "towards",
+    "french": "vers"
+  },
+  "365": {
+    "english": "minutes",
+    "french": "minutes"
+  },
+  "366": {
+    "english": "asked",
+    "french": "demandé"
+  },
+  "367": {
+    "english": "come",
+    "french": "venez"
+  },
+  "368": {
+    "english": "in front of",
+    "french": "devant"
+  },
+  "369": {
+    "english": "finally",
+    "french": "enfin"
+  },
+  "370": {
+    "english": "to stop",
+    "french": "arrêter"
+  },
+  "371": {
+    "english": "cause",
+    "french": "cause"
+  },
+  "372": {
+    "english": "new",
+    "french": "nouvelle"
+  },
+  "373": {
+    "english": "wait",
+    "french": "attendez"
+  },
+  "374": {
+    "english": "room",
+    "french": "chambre"
+  },
+  "375": {
+    "english": "right/straight",
+    "french": "droit"
+  },
+  "376": {
+    "english": "left",
+    "french": "parti"
+  },
+  "377": {
+    "english": "put",
+    "french": "mis"
+  },
+  "378": {
+    "english": "water",
+    "french": "eau"
+  },
+  "379": {
+    "english": "counts",
+    "french": "compte"
+  },
+  "380": {
+    "english": "would say",
+    "french": "dirait"
+  },
+  "381": {
+    "english": "earth/land",
+    "french": "terre"
+  },
+  "382": {
+    "english": "beautiful",
+    "french": "belle"
+  },
+  "383": {
+    "english": "hopes",
+    "french": "espère"
+  },
+  "384": {
+    "english": "would like",
+    "french": "aimerais"
+  },
+  "385": {
+    "english": "far",
+    "french": "loin"
+  },
+  "386": {
+    "english": "husband",
+    "french": "mari"
+  },
+  "387": {
+    "english": "gives",
+    "french": "donne"
+  },
+  "388": {
+    "english": "end",
+    "french": "fin"
+  },
+  "389": {
+    "english": "to believe",
+    "french": "croire"
+  },
+  "390": {
+    "english": "will have",
+    "french": "aura"
+  },
+  "391": {
+    "english": "big/fat",
+    "french": "gros"
+  },
+  "392": {
+    "english": "job (slang)",
+    "french": "boulot"
+  },
+  "393": {
+    "english": "rather",
+    "french": "plutôt"
+  },
+  "394": {
+    "english": "darling",
+    "french": "chérie"
+  },
+  "395": {
+    "english": "ready",
+    "french": "prêt"
+  },
+  "396": {
+    "english": "girls",
+    "french": "filles"
+  },
+  "397": {
+    "english": "office/desk",
+    "french": "bureau"
+  },
+  "398": {
+    "english": "to die",
+    "french": "mourir"
+  },
+  "399": {
+    "english": "yesterday",
+    "french": "hier"
+  },
+  "400": {
+    "english": "possible",
+    "french": "possible"
+  },
+  "401": {
+    "english": "to play",
+    "french": "jouer"
+  },
+  "402": {
+    "english": "to ask",
+    "french": "demander"
+  },
+  "403": {
+    "english": "the one (m)",
+    "french": "celui"
+  },
+  "404": {
+    "english": "wanted",
+    "french": "voulait"
+  },
+  "405": {
+    "english": "handsome",
+    "french": "beau"
+  },
+  "406": {
+    "english": "young",
+    "french": "jeune"
+  },
+  "407": {
+    "english": "um/uh",
+    "french": "euh"
+  },
+  "408": {
+    "english": "outside",
+    "french": "dehors"
+  },
+  "409": {
+    "english": "doctor",
+    "french": "docteur"
+  },
+  "410": {
+    "english": "trust",
+    "french": "confiance"
+  },
+  "411": {
+    "english": "to call",
+    "french": "appeler"
+  },
+  "412": {
+    "english": "years",
+    "french": "années"
+  },
+  "413": {
+    "english": "truth",
+    "french": "vérité"
+  },
+  "414": {
+    "english": "school",
+    "french": "école"
+  },
+  "415": {
+    "english": "boss",
+    "french": "chef"
+  },
+  "416": {
+    "english": "women",
+    "french": "femmes"
+  },
+  "417": {
+    "english": "remarks/subject",
+    "french": "propos"
+  },
+  "418": {
+    "english": "week",
+    "french": "semaine"
+  },
+  "419": {
+    "english": "to live",
+    "french": "vivre"
+  },
+  "420": {
+    "english": "look",
+    "french": "regardez"
+  },
+  "421": {
+    "english": "fire",
+    "french": "feu"
+  },
+  "422": {
+    "english": "day",
+    "french": "journée"
+  },
+  "423": {
+    "english": "madam",
+    "french": "madame"
+  },
+  "424": {
+    "english": "hey",
+    "french": "hey"
+  },
+  "425": {
+    "english": "telephone",
+    "french": "téléphone"
+  },
+  "426": {
+    "english": "near",
+    "french": "près"
+  },
+  "427": {
+    "english": "business/things",
+    "french": "affaires"
+  },
+  "428": {
+    "english": "better/best",
+    "french": "meilleur"
+  },
+  "429": {
+    "english": "must/have to",
+    "french": "devez"
+  },
+  "430": {
+    "english": "on top/above",
+    "french": "dessus"
+  },
+  "431": {
+    "english": "hands",
+    "french": "mains"
+  },
+  "432": {
+    "english": "you think",
+    "french": "penses"
+  },
+  "433": {
+    "english": "prays",
+    "french": "prie"
+  },
+  "434": {
+    "english": "team",
+    "french": "équipe"
+  },
+  "435": {
+    "english": "big",
+    "french": "grande"
+  },
+  "436": {
+    "english": "to eat",
+    "french": "manger"
+  },
+  "437": {
+    "english": "to arrive/happen",
+    "french": "arriver"
+  },
+  "438": {
+    "english": "hard",
+    "french": "dur"
+  },
+  "439": {
+    "english": "war",
+    "french": "guerre"
+  },
+  "440": {
+    "english": "(that) he/she has",
+    "french": "ait"
+  },
+  "441": {
+    "english": "called",
+    "french": "appelé"
+  },
+  "442": {
+    "english": "walks",
+    "french": "marche"
+  },
+  "443": {
+    "english": "security",
+    "french": "sécurité"
+  },
+  "444": {
+    "english": "boy",
+    "french": "garçon"
+  },
+  "445": {
+    "english": "tries",
+    "french": "essaie"
+  },
+  "446": {
+    "english": "important",
+    "french": "important"
+  },
+  "447": {
+    "english": "say",
+    "french": "dites"
+  },
+  "448": {
+    "english": "exactly",
+    "french": "exactement"
+  },
+  "449": {
+    "english": "they do/make",
+    "french": "font"
+  },
+  "450": {
+    "english": "strong",
+    "french": "fort"
+  },
+  "451": {
+    "english": "almost",
+    "french": "presque"
+  },
+  "452": {
+    "english": "full",
+    "french": "plein"
+  },
+  "453": {
+    "english": "behind",
+    "french": "derrière"
+  },
+  "454": {
+    "english": "well/uh",
+    "french": "ben"
+  },
+  "455": {
+    "english": "marriage",
+    "french": "mariage"
+  },
+  "456": {
+    "english": "parents",
+    "french": "parents"
+  },
+  "457": {
+    "english": "captain",
+    "french": "capitaine"
+  },
+  "458": {
+    "english": "last",
+    "french": "dernier"
+  },
+  "459": {
+    "english": "crazy",
+    "french": "fou"
+  },
+  "460": {
+    "english": "those (m)",
+    "french": "ceux"
+  },
+  "461": {
+    "english": "to fall",
+    "french": "tomber"
+  },
+  "462": {
+    "english": "to wait",
+    "french": "attendre"
+  },
+  "463": {
+    "english": "view/sight",
+    "french": "vue"
+  },
+  "464": {
+    "english": "thought",
+    "french": "pensé"
+  },
+  "465": {
+    "english": "remember",
+    "french": "souviens"
+  },
+  "466": {
+    "english": "desire/urge",
+    "french": "envie"
+  },
+  "467": {
+    "english": "party",
+    "french": "fête"
+  },
+  "468": {
+    "english": "game",
+    "french": "jeu"
+  },
+  "469": {
+    "english": "awesome/great",
+    "french": "génial"
+  },
+  "470": {
+    "english": "country",
+    "french": "pays"
+  },
+  "471": {
+    "english": "guard",
+    "french": "garde"
+  },
+  "472": {
+    "english": "course/class",
+    "french": "cours"
+  },
+  "473": {
+    "english": "soon",
+    "french": "bientôt"
+  },
+  "474": {
+    "english": "number",
+    "french": "numéro"
+  },
+  "475": {
+    "english": "people",
+    "french": "personnes"
+  },
+  "476": {
+    "english": "five",
+    "french": "cinq"
+  },
+  "477": {
+    "english": "perfect",
+    "french": "parfait"
+  },
+  "478": {
+    "english": "left/let",
+    "french": "laissé"
+  },
+  "479": {
+    "english": "thus/so",
+    "french": "ainsi"
+  },
+  "480": {
+    "english": "return",
+    "french": "retour"
+  },
+  "481": {
+    "english": "seems",
+    "french": "semble"
+  },
+  "482": {
+    "english": "as much",
+    "french": "autant"
+  },
+  "483": {
+    "english": "pain/effort",
+    "french": "peine"
+  },
+  "484": {
+    "english": "minute",
+    "french": "minute"
+  },
+  "485": {
+    "english": "tried",
+    "french": "essayé"
+  },
+  "486": {
+    "english": "plan",
+    "french": "plan"
+  },
+  "487": {
+    "english": "moment",
+    "french": "instant"
+  },
+  "488": {
+    "english": "I will be",
+    "french": "serai"
+  },
+  "489": {
+    "english": "prison",
+    "french": "prison"
+  },
+  "490": {
+    "english": "to think",
+    "french": "penser"
+  },
+  "491": {
+    "english": "to try",
+    "french": "essayer"
+  },
+  "492": {
+    "english": "takes",
+    "french": "prend"
+  },
+  "493": {
+    "english": "weapon",
+    "french": "arme"
+  },
+  "494": {
+    "english": "bad",
+    "french": "mauvais"
+  },
+  "495": {
+    "english": "word",
+    "french": "mot"
+  },
+  "496": {
+    "english": "to work",
+    "french": "travailler"
+  },
+  "497": {
+    "english": "four",
+    "french": "quatre"
+  },
+  "498": {
+    "english": "to go home",
+    "french": "rentrer"
+  },
+  "499": {
+    "english": "to look/watch",
+    "french": "regarder"
+  },
+  "500": {
+    "english": "choice",
+    "french": "choix"
+  },
+  "501": {
+    "english": "sometimes",
+    "french": "parfois"
+  },
+  "502": {
+    "english": "movie",
+    "french": "film"
+  },
+  "503": {
+    "english": "first/approach",
+    "french": "abord"
+  },
+  "504": {
+    "english": "you see",
+    "french": "voyez"
+  },
+  "505": {
+    "english": "fault/mistake",
+    "french": "faute"
+  },
+  "506": {
+    "english": "easy",
+    "french": "facile"
+  },
+  "507": {
+    "english": "believed/thought",
+    "french": "croyais"
+  },
+  "508": {
+    "english": "low",
+    "french": "bas"
+  },
+  "509": {
+    "english": "to change",
+    "french": "changer"
+  },
+  "510": {
+    "english": "to hear",
+    "french": "entendre"
+  },
+  "511": {
+    "english": "pleasure",
+    "french": "plaisir"
+  },
+  "512": {
+    "english": "happy",
+    "french": "heureux"
+  },
+  "513": {
+    "english": "to enter",
+    "french": "entrer"
+  },
+  "514": {
+    "english": "I would like",
+    "french": "voudrais"
+  },
+  "515": {
+    "english": "clean/own",
+    "french": "propre"
+  },
+  "516": {
+    "english": "you were",
+    "french": "étiez"
+  },
+  "517": {
+    "english": "turn/tower",
+    "french": "tour"
+  },
+  "518": {
+    "english": "will do/make",
+    "french": "fera"
+  },
+  "519": {
+    "english": "then",
+    "french": "ensuite"
+  },
+  "520": {
+    "english": "to keep",
+    "french": "garder"
+  },
+  "521": {
+    "english": "agent/officer",
+    "french": "agent"
+  },
+  "522": {
+    "english": "was going",
+    "french": "allait"
+  },
+  "523": {
+    "english": "bed",
+    "french": "lit"
+  },
+  "524": {
+    "english": "works",
+    "french": "travaille"
+  },
+  "525": {
+    "english": "loves/adores",
+    "french": "adore"
+  },
+  "526": {
+    "english": "friend (f)",
+    "french": "amie"
+  },
+  "527": {
+    "english": "to give back/render",
+    "french": "rendre"
+  },
+  "528": {
+    "english": "road",
+    "french": "route"
+  },
+  "529": {
+    "english": "place",
+    "french": "lieu"
+  },
+  "530": {
+    "english": "year",
+    "french": "année"
+  },
+  "531": {
+    "english": "sees",
+    "french": "voit"
+  },
+  "532": {
+    "english": "begins",
+    "french": "commence"
+  },
+  "533": {
+    "english": "service",
+    "french": "service"
+  },
+  "534": {
+    "english": "duty/must",
+    "french": "devoir"
+  },
+  "535": {
+    "english": "waits",
+    "french": "attend"
+  },
+  "536": {
+    "english": "funny",
+    "french": "drôle"
+  },
+  "537": {
+    "english": "difficult",
+    "french": "difficile"
+  },
+  "538": {
+    "english": "sure",
+    "french": "sûre"
+  },
+  "539": {
+    "english": "worse",
+    "french": "pire"
+  },
+  "540": {
+    "english": "can/are able",
+    "french": "peuvent"
+  },
+  "541": {
+    "english": "subject",
+    "french": "sujet"
+  },
+  "542": {
+    "english": "state",
+    "french": "état"
+  },
+  "543": {
+    "english": "this",
+    "french": "ceci"
+  },
+  "544": {
+    "english": "impossible",
+    "french": "impossible"
+  },
+  "545": {
+    "english": "sort/kind",
+    "french": "sorte"
+  },
+  "546": {
+    "english": "to lose",
+    "french": "perdre"
+  },
+  "547": {
+    "english": "dollars",
+    "french": "dollars"
+  },
+  "548": {
+    "english": "wanted",
+    "french": "voulu"
+  },
+  "549": {
+    "english": "dead (f)",
+    "french": "morte"
+  },
+  "550": {
+    "english": "will go",
+    "french": "ira"
+  },
+  "551": {
+    "english": "was doing",
+    "french": "faisait"
+  },
+  "552": {
+    "english": "weird",
+    "french": "bizarre"
+  },
+  "553": {
+    "english": "forgotten",
+    "french": "oublié"
+  },
+  "554": {
+    "english": "stop!",
+    "french": "arrêtez"
+  },
+  "555": {
+    "english": "I will do/make",
+    "french": "ferai"
+  },
+  "556": {
+    "english": "would be",
+    "french": "serais"
+  },
+  "557": {
+    "english": "early",
+    "french": "tôt"
+  },
+  "558": {
+    "english": "worries",
+    "french": "inquiète"
+  },
+  "559": {
+    "english": "to pay",
+    "french": "payer"
+  },
+  "560": {
+    "english": "heart",
+    "french": "coeur"
+  },
+  "561": {
+    "english": "since/from",
+    "french": "dès"
+  },
+  "562": {
+    "english": "could",
+    "french": "pouvais"
+  },
+  "563": {
+    "english": "come back",
+    "french": "reviens"
+  },
+  "564": {
+    "english": "dog",
+    "french": "chien"
+  },
+  "565": {
+    "english": "is enough",
+    "french": "suffit"
+  },
+  "566": {
+    "english": "take",
+    "french": "prenez"
+  },
+  "567": {
+    "english": "you think",
+    "french": "pensez"
+  },
+  "568": {
+    "english": "coffee",
+    "french": "café"
+  },
+  "569": {
+    "english": "calm",
+    "french": "calme"
+  },
+  "570": {
+    "english": "looks for",
+    "french": "cherche"
+  },
+  "571": {
+    "english": "to show",
+    "french": "montrer"
+  },
+  "572": {
+    "english": "you speak",
+    "french": "parles"
+  },
+  "573": {
+    "english": "photo",
+    "french": "photo"
+  },
+  "574": {
+    "english": "closes/shuts",
+    "french": "ferme"
+  },
+  "575": {
+    "english": "problems",
+    "french": "problèmes"
+  },
+  "576": {
+    "english": "heart",
+    "french": "cœur"
+  },
+  "577": {
+    "english": "surely",
+    "french": "sûrement"
+  },
+  "578": {
+    "english": "glass",
+    "french": "verre"
+  },
+  "579": {
+    "english": "you love",
+    "french": "aimes"
+  },
+  "580": {
+    "english": "we must",
+    "french": "devons"
+  },
+  "581": {
+    "english": "they want",
+    "french": "veulent"
+  },
+  "582": {
+    "english": "doubt",
+    "french": "doute"
+  },
+  "583": {
+    "english": "music",
+    "french": "musique"
+  },
+  "584": {
+    "english": "current/common",
+    "french": "courant"
+  },
+  "585": {
+    "english": "except",
+    "french": "sauf"
+  },
+  "586": {
+    "english": "means/average",
+    "french": "moyen"
+  },
+  "587": {
+    "english": "news",
+    "french": "nouvelles"
+  },
+  "588": {
+    "english": "opinion",
+    "french": "avis"
+  },
+  "589": {
+    "english": "to save",
+    "french": "sauver"
+  },
+  "590": {
+    "english": "hospital",
+    "french": "hôpital"
+  },
+  "591": {
+    "english": "questions",
+    "french": "questions"
+  },
+  "592": {
+    "english": "murder",
+    "french": "meurtre"
+  },
+  "593": {
+    "english": "serious",
+    "french": "sérieux"
+  },
+  "594": {
+    "english": "second",
+    "french": "seconde"
+  },
+  "595": {
+    "english": "stuff/things",
+    "french": "trucs"
+  },
+  "596": {
+    "english": "to understand",
+    "french": "comprendre"
+  },
+  "597": {
+    "english": "was going",
+    "french": "allais"
+  },
+  "598": {
+    "english": "mind/spirit",
+    "french": "esprit"
+  },
+  "599": {
+    "english": "cool",
+    "french": "cool"
+  },
+  "600": {
+    "english": "market",
+    "french": "marché"
+  },
+  "601": {
+    "english": "crazy (pl)",
+    "french": "fous"
+  },
+  "602": {
+    "english": "high",
+    "french": "haut"
+  },
+  "603": {
+    "english": "room",
+    "french": "salle"
+  },
+  "604": {
+    "english": "sick",
+    "french": "malade"
+  },
+  "605": {
+    "english": "changed",
+    "french": "changé"
+  },
+  "606": {
+    "english": "kind/nice",
+    "french": "gentil"
+  },
+  "607": {
+    "english": "gone",
+    "french": "allé"
+  },
+  "608": {
+    "english": "six",
+    "french": "six"
+  },
+  "609": {
+    "english": "simple",
+    "french": "simple"
+  },
+  "610": {
+    "english": "weeks",
+    "french": "semaines"
+  },
+  "611": {
+    "english": "the one (f)",
+    "french": "celle"
+  },
+  "612": {
+    "english": "learned",
+    "french": "appris"
+  },
+  "613": {
+    "english": "lord",
+    "french": "seigneur"
+  },
+  "614": {
+    "english": "dinner",
+    "french": "dîner"
+  },
+  "615": {
+    "english": "go out / get out!",
+    "french": "sors"
+  },
+  "616": {
+    "english": "begun/started",
+    "french": "commencé"
+  },
+  "617": {
+    "english": "suppose(s)",
+    "french": "suppose"
+  },
+  "618": {
+    "english": "path",
+    "french": "chemin"
+  },
+  "619": {
+    "english": "everywhere",
+    "french": "partout"
+  },
+  "620": {
+    "english": "arm(s)",
+    "french": "bras"
+  },
+  "621": {
+    "english": "butt (vulgar)",
+    "french": "cul"
+  },
+  "622": {
+    "english": "next",
+    "french": "prochaine"
+  },
+  "623": {
+    "english": "face",
+    "french": "visage"
+  },
+  "624": {
+    "english": "better/best (f)",
+    "french": "meilleure"
+  },
+  "625": {
+    "english": "face/front",
+    "french": "face"
+  },
+  "626": {
+    "english": "evening/party",
+    "french": "soirée"
+  },
+  "627": {
+    "english": "king",
+    "french": "roi"
+  },
+  "628": {
+    "english": "especially",
+    "french": "surtout"
+  },
+  "629": {
+    "english": "delay/lateness",
+    "french": "retard"
+  },
+  "630": {
+    "english": "written",
+    "french": "écrit"
+  },
+  "631": {
+    "english": "book/pound",
+    "french": "livre"
+  },
+  "632": {
+    "english": "report/connection",
+    "french": "rapport"
+  },
+  "633": {
+    "english": "darling",
+    "french": "chéri"
+  },
+  "634": {
+    "english": "message",
+    "french": "message"
+  },
+  "635": {
+    "english": "is worth",
+    "french": "vaut"
+  },
+  "636": {
+    "english": "would do",
+    "french": "ferais"
+  },
+  "637": {
+    "english": "dead (pl)",
+    "french": "morts"
+  },
+  "638": {
+    "english": "to drink",
+    "french": "boire"
+  },
+  "639": {
+    "english": "be!",
+    "french": "soyez"
+  },
+  "640": {
+    "english": "president",
+    "french": "président"
+  },
+  "641": {
+    "english": "pleases",
+    "french": "plait"
+  },
+  "642": {
+    "english": "wood",
+    "french": "bois"
+  },
+  "643": {
+    "english": "otherwise",
+    "french": "sinon"
+  },
+  "644": {
+    "english": "error",
+    "french": "erreur"
+  },
+  "645": {
+    "english": "goes home",
+    "french": "rentre"
+  },
+  "646": {
+    "english": "had to",
+    "french": "devait"
+  },
+  "647": {
+    "english": "to come back",
+    "french": "revenir"
+  },
+  "648": {
+    "english": "plays",
+    "french": "joue"
+  },
+  "649": {
+    "english": "poor",
+    "french": "pauvre"
+  },
+  "650": {
+    "english": "to become",
+    "french": "devenir"
+  },
+  "651": {
+    "english": "to meet",
+    "french": "rencontrer"
+  },
+  "652": {
+    "english": "fate/spell",
+    "french": "sort"
+  },
+  "653": {
+    "english": "to begin",
+    "french": "commencer"
+  },
+  "654": {
+    "english": "could",
+    "french": "pouvait"
+  },
+  "655": {
+    "english": "takes care of/occupies",
+    "french": "occupe"
+  },
+  "656": {
+    "english": "hear",
+    "french": "entends"
+  },
+  "657": {
+    "english": "often",
+    "french": "souvent"
+  },
+  "658": {
+    "english": "room/piece",
+    "french": "pièce"
+  },
+  "659": {
+    "english": "received",
+    "french": "reçu"
+  },
+  "660": {
+    "english": "serious",
+    "french": "grave"
+  },
+  "661": {
+    "english": "put",
+    "french": "mets"
+  },
+  "662": {
+    "english": "interior/inside",
+    "french": "intérieur"
+  },
+  "663": {
+    "english": "honor",
+    "french": "honneur"
+  },
+  "664": {
+    "english": "to sleep",
+    "french": "dormir"
+  },
+  "665": {
+    "english": "year",
+    "french": "an"
+  },
+  "666": {
+    "english": "false/fake",
+    "french": "faux"
+  },
+  "667": {
+    "english": "gentlemen",
+    "french": "messieurs"
+  },
+  "668": {
+    "english": "group",
+    "french": "groupe"
+  },
+  "669": {
+    "english": "dream",
+    "french": "rêve"
+  },
+  "670": {
+    "english": "card/map",
+    "french": "carte"
+  },
+  "671": {
+    "english": "you had",
+    "french": "aviez"
+  },
+  "672": {
+    "english": "call",
+    "french": "appel"
+  },
+  "673": {
+    "english": "lacks/misses",
+    "french": "manque"
+  },
+  "674": {
+    "english": "sent",
+    "french": "envoyé"
+  },
+  "675": {
+    "english": "beginning",
+    "french": "début"
+  },
+  "676": {
+    "english": "(that) can",
+    "french": "puisse"
+  },
+  "677": {
+    "english": "listen",
+    "french": "écoutez"
+  },
+  "678": {
+    "english": "good evening",
+    "french": "bonsoir"
+  },
+  "679": {
+    "english": "happy/satisfied",
+    "french": "content"
+  },
+  "680": {
+    "english": "secret",
+    "french": "secret"
+  },
+  "681": {
+    "english": "came (f)",
+    "french": "venue"
+  },
+  "682": {
+    "english": "dear/expensive",
+    "french": "cher"
+  },
+  "683": {
+    "english": "effect",
+    "french": "effet"
+  },
+  "684": {
+    "english": "let's see / we see",
+    "french": "voyons"
+  },
+  "685": {
+    "english": "bag",
+    "french": "sac"
+  },
+  "686": {
+    "english": "continues",
+    "french": "continue"
+  },
+  "687": {
+    "english": "to buy",
+    "french": "acheter"
+  },
+  "688": {
+    "english": "voice",
+    "french": "voix"
+  },
+  "689": {
+    "english": "some/certain",
+    "french": "certains"
+  },
+  "690": {
+    "english": "to occupy",
+    "french": "occuper"
+  },
+  "691": {
+    "english": "Christmas",
+    "french": "noël"
+  },
+  "692": {
+    "english": "to win/earn",
+    "french": "gagner"
+  },
+  "693": {
+    "english": "grace/thanks to",
+    "french": "grâce"
+  },
+  "694": {
+    "english": "master/teacher",
+    "french": "maître"
+  },
+  "695": {
+    "english": "price/prize",
+    "french": "prix"
+  },
+  "696": {
+    "english": "bad (f)",
+    "french": "mauvaise"
+  },
+  "697": {
+    "english": "general",
+    "french": "général"
+  },
+  "698": {
+    "english": "age",
+    "french": "âge"
+  },
+  "699": {
+    "english": "long",
+    "french": "long"
+  },
+  "700": {
+    "english": "street",
+    "french": "rue"
+  },
+  "701": {
+    "english": "to pull/shoot",
+    "french": "tirer"
+  },
+  "702": {
+    "english": "to learn",
+    "french": "apprendre"
+  },
+  "703": {
+    "english": "hair",
+    "french": "cheveux"
+  },
+  "704": {
+    "english": "black",
+    "french": "noir"
+  },
+  "705": {
+    "english": "promised",
+    "french": "promis"
+  },
+  "706": {
+    "english": "they had",
+    "french": "avaient"
+  },
+  "707": {
+    "english": "boss",
+    "french": "patron"
+  },
+  "708": {
+    "english": "lawyer",
+    "french": "avocat"
+  },
+  "709": {
+    "english": "force",
+    "french": "force"
+  },
+  "710": {
+    "english": "accident",
+    "french": "accident"
+  },
+  "711": {
+    "english": "ten",
+    "french": "dix"
+  },
+  "712": {
+    "english": "probably",
+    "french": "probablement"
+  },
+  "713": {
+    "english": "let/leave",
+    "french": "laissez"
+  },
+  "714": {
+    "english": "end/tip",
+    "french": "bout"
+  },
+  "715": {
+    "english": "order",
+    "french": "ordre"
+  },
+  "716": {
+    "english": "weapons",
+    "french": "armes"
+  },
+  "717": {
+    "english": "believed",
+    "french": "cru"
+  },
+  "718": {
+    "english": "hates",
+    "french": "déteste"
+  },
+  "719": {
+    "english": "to find again",
+    "french": "retrouver"
+  },
+  "720": {
+    "english": "millions",
+    "french": "millions"
+  },
+  "721": {
+    "english": "incredible",
+    "french": "incroyable"
+  },
+  "722": {
+    "english": "trip",
+    "french": "voyage"
+  },
+  "723": {
+    "english": "elsewhere",
+    "french": "ailleurs"
+  },
+  "724": {
+    "english": "forgets",
+    "french": "oublie"
+  },
+  "725": {
+    "english": "resembles",
+    "french": "ressemble"
+  },
+  "726": {
+    "english": "welcome",
+    "french": "bienvenue"
+  },
+  "727": {
+    "english": "disappeared",
+    "french": "disparu"
+  },
+  "728": {
+    "english": "to protect",
+    "french": "protéger"
+  },
+  "729": {
+    "english": "to use",
+    "french": "utiliser"
+  },
+  "730": {
+    "english": "situation",
+    "french": "situation"
+  },
+  "731": {
+    "english": "small (pl)",
+    "french": "petits"
+  },
+  "732": {
+    "english": "I will have",
+    "french": "aurai"
+  },
+  "733": {
+    "english": "you know",
+    "french": "connaissez"
+  },
+  "734": {
+    "english": "simply",
+    "french": "simplement"
+  },
+  "735": {
+    "english": "scene/stage",
+    "french": "scène"
+  },
+  "736": {
+    "english": "sister",
+    "french": "sœur"
+  },
+  "737": {
+    "english": "ready",
+    "french": "prête"
+  },
+  "738": {
+    "english": "uncle",
+    "french": "oncle"
+  },
+  "739": {
+    "english": "you should",
+    "french": "devriez"
+  },
+  "740": {
+    "english": "list",
+    "french": "liste"
+  },
+  "741": {
+    "english": "sister",
+    "french": "soeur"
+  },
+  "742": {
+    "english": "completely",
+    "french": "complètement"
+  },
+  "743": {
+    "english": "back",
+    "french": "dos"
+  },
+  "744": {
+    "english": "army",
+    "french": "armée"
+  },
+  "745": {
+    "english": "peace",
+    "french": "paix"
+  },
+  "746": {
+    "english": "to beat/fight",
+    "french": "battre"
+  },
+  "747": {
+    "english": "crime",
+    "french": "crime"
+  },
+  "748": {
+    "english": "birthday",
+    "french": "anniversaire"
+  },
+  "749": {
+    "english": "to finish",
+    "french": "finir"
+  },
+  "750": {
+    "english": "succeeded",
+    "french": "réussi"
+  },
+  "751": {
+    "english": "acts/is about",
+    "french": "agit"
+  },
+  "752": {
+    "english": "to go back",
+    "french": "retourner"
+  },
+  "753": {
+    "english": "dirty",
+    "french": "sale"
+  },
+  "754": {
+    "english": "free",
+    "french": "libre"
+  },
+  "755": {
+    "english": "moves",
+    "french": "bouge"
+  },
+  "756": {
+    "english": "control",
+    "french": "contrôle"
+  },
+  "757": {
+    "english": "calls back",
+    "french": "rappelle"
+  },
+  "758": {
+    "english": "stopped/arrested",
+    "french": "arrêté"
+  },
+  "759": {
+    "english": "hotel",
+    "french": "hôtel"
+  },
+  "760": {
+    "english": "idiot",
+    "french": "idiot"
+  },
+  "761": {
+    "english": "okay",
+    "french": "okay"
+  },
+  "762": {
+    "english": "met",
+    "french": "rencontré"
+  },
+  "763": {
+    "english": "stay",
+    "french": "restez"
+  },
+  "764": {
+    "english": "absolutely",
+    "french": "absolument"
+  },
+  "765": {
+    "english": "words",
+    "french": "mots"
+  },
+  "766": {
+    "english": "victim",
+    "french": "victime"
+  },
+  "767": {
+    "english": "impression",
+    "french": "impression"
+  },
+  "768": {
+    "english": "decided",
+    "french": "décidé"
+  },
+  "769": {
+    "english": "nice",
+    "french": "sympa"
+  },
+  "770": {
+    "english": "leave/go",
+    "french": "pars"
+  },
+  "771": {
+    "english": "may do",
+    "french": "fasse"
+  },
+  "772": {
+    "english": "airplane",
+    "french": "avion"
+  },
+  "773": {
+    "english": "mess",
+    "french": "bordel"
+  },
+  "774": {
+    "english": "habit",
+    "french": "habitude"
+  },
+  "775": {
+    "english": "table",
+    "french": "table"
+  },
+  "776": {
+    "english": "red",
+    "french": "rouge"
+  },
+  "777": {
+    "english": "system",
+    "french": "système"
+  },
+  "778": {
+    "english": "photos",
+    "french": "photos"
+  },
+  "779": {
+    "english": "doctor",
+    "french": "médecin"
+  },
+  "780": {
+    "english": "you will be",
+    "french": "seras"
+  },
+  "781": {
+    "english": "boat",
+    "french": "bateau"
+  },
+  "782": {
+    "english": "stupid",
+    "french": "stupide"
+  },
+  "783": {
+    "english": "hunger",
+    "french": "faim"
+  },
+  "784": {
+    "english": "around",
+    "french": "autour"
+  },
+  "785": {
+    "english": "bottom/background",
+    "french": "fond"
+  },
+  "786": {
+    "english": "surprise",
+    "french": "surprise"
+  },
+  "787": {
+    "english": "you believe",
+    "french": "croyez"
+  },
+  "788": {
+    "english": "had to",
+    "french": "devais"
+  },
+  "789": {
+    "english": "line",
+    "french": "ligne"
+  },
+  "790": {
+    "english": "to carry",
+    "french": "porter"
+  },
+  "791": {
+    "english": "imagines",
+    "french": "imagine"
+  },
+  "792": {
+    "english": "anger",
+    "french": "colère"
+  },
+  "793": {
+    "english": "clear",
+    "french": "clair"
+  },
+  "794": {
+    "english": "they will be",
+    "french": "seront"
+  },
+  "795": {
+    "english": "knew",
+    "french": "savait"
+  },
+  "796": {
+    "english": "ball",
+    "french": "balle"
+  },
+  "797": {
+    "english": "won",
+    "french": "gagné"
+  },
+  "798": {
+    "english": "gold",
+    "french": "or"
+  },
+  "799": {
+    "english": "outside of",
+    "french": "hors"
+  },
+  "800": {
+    "english": "magnificent",
+    "french": "magnifique"
+  },
+  "801": {
+    "english": "risk",
+    "french": "risque"
+  },
+  "802": {
+    "english": "finished",
+    "french": "terminé"
+  },
+  "803": {
+    "english": "known",
+    "french": "su"
+  },
+  "804": {
+    "english": "happy (f)",
+    "french": "heureuse"
+  },
+  "805": {
+    "english": "mission",
+    "french": "mission"
+  },
+  "806": {
+    "english": "pretty",
+    "french": "jolie"
+  },
+  "807": {
+    "english": "you speak",
+    "french": "parlez"
+  },
+  "808": {
+    "english": "present",
+    "french": "présent"
+  },
+  "809": {
+    "english": "went out",
+    "french": "sorti"
+  },
+  "810": {
+    "english": "gift",
+    "french": "cadeau"
+  },
+  "811": {
+    "english": "to explain",
+    "french": "expliquer"
+  },
+  "812": {
+    "english": "stolen",
+    "french": "volé"
+  },
+  "813": {
+    "english": "several",
+    "french": "plusieurs"
+  },
+  "814": {
+    "english": "left",
+    "french": "gauche"
+  },
+  "815": {
+    "english": "would do",
+    "french": "ferait"
+  },
+  "816": {
+    "english": "nine",
+    "french": "neuf"
+  },
+  "817": {
+    "english": "opens",
+    "french": "ouvre"
+  },
+  "818": {
+    "english": "said",
+    "french": "disais"
+  },
+  "819": {
+    "english": "inside",
+    "french": "dedans"
+  },
+  "820": {
+    "english": "say",
+    "french": "disent"
+  },
+  "821": {
+    "english": "we can",
+    "french": "pouvons"
+  },
+  "822": {
+    "english": "to follow",
+    "french": "suivre"
+  },
+  "823": {
+    "english": "will be able to",
+    "french": "pourra"
+  },
+  "824": {
+    "english": "inspector",
+    "french": "inspecteur"
+  },
+  "825": {
+    "english": "answer",
+    "french": "réponse"
+  },
+  "826": {
+    "english": "light",
+    "french": "lumière"
+  },
+  "827": {
+    "english": "feet",
+    "french": "pieds"
+  },
+  "828": {
+    "english": "buddy",
+    "french": "pote"
+  },
+  "829": {
+    "english": "watch",
+    "french": "montre"
+  },
+  "830": {
+    "english": "foot",
+    "french": "pied"
+  },
+  "831": {
+    "english": "to walk",
+    "french": "marcher"
+  },
+  "832": {
+    "english": "you will have",
+    "french": "auras"
+  },
+  "833": {
+    "english": "to send",
+    "french": "envoyer"
+  },
+  "834": {
+    "english": "true",
+    "french": "vraie"
+  },
+  "835": {
+    "english": "kind/species",
+    "french": "espèce"
+  },
+  "836": {
+    "english": "must",
+    "french": "doivent"
+  },
+  "837": {
+    "english": "hello (phone)",
+    "french": "allô"
+  },
+  "838": {
+    "english": "similar",
+    "french": "pareil"
+  },
+  "839": {
+    "english": "sun",
+    "french": "soleil"
+  },
+  "840": {
+    "english": "camp",
+    "french": "camp"
+  },
+  "841": {
+    "english": "was necessary",
+    "french": "fallait"
+  },
+  "842": {
+    "english": "corner",
+    "french": "coin"
+  },
+  "843": {
+    "english": "doesn't know",
+    "french": "ignore"
+  },
+  "844": {
+    "english": "half",
+    "french": "moitié"
+  },
+  "845": {
+    "english": "according to",
+    "french": "selon"
+  },
+  "846": {
+    "english": "to hold",
+    "french": "tenir"
+  },
+  "847": {
+    "english": "big",
+    "french": "grosse"
+  },
+  "848": {
+    "english": "to want",
+    "french": "vouloir"
+  },
+  "849": {
+    "english": "old",
+    "french": "vieille"
+  },
+  "850": {
+    "english": "become",
+    "french": "devenu"
+  },
+  "851": {
+    "english": "to continue",
+    "french": "continuer"
+  },
+  "852": {
+    "english": "makes",
+    "french": "rend"
+  },
+  "853": {
+    "english": "exit",
+    "french": "sortie"
+  },
+  "854": {
+    "english": "research",
+    "french": "recherche"
+  },
+  "855": {
+    "english": "back",
+    "french": "arrière"
+  },
+  "856": {
+    "english": "to read",
+    "french": "lire"
+  },
+  "857": {
+    "english": "gently",
+    "french": "doucement"
+  },
+  "858": {
+    "english": "pretty",
+    "french": "joli"
+  },
+  "859": {
+    "english": "advance",
+    "french": "avance"
+  },
+  "860": {
+    "english": "exact",
+    "french": "exact"
+  },
+  "861": {
+    "english": "said",
+    "french": "disait"
+  },
+  "862": {
+    "english": "club",
+    "french": "club"
+  },
+  "863": {
+    "english": "arrival",
+    "french": "arrivée"
+  },
+  "864": {
+    "english": "kills",
+    "french": "tue"
+  },
+  "865": {
+    "english": "which one",
+    "french": "laquelle"
+  },
+  "866": {
+    "english": "hot",
+    "french": "chaud"
+  },
+  "867": {
+    "english": "to put",
+    "french": "poser"
+  },
+  "868": {
+    "english": "loved",
+    "french": "aimé"
+  },
+  "869": {
+    "english": "teacher/professor",
+    "french": "professeur"
+  },
+  "870": {
+    "english": "to leave",
+    "french": "quitter"
+  },
+  "871": {
+    "english": "law",
+    "french": "loi"
+  },
+  "872": {
+    "english": "killer",
+    "french": "tueur"
+  },
+  "873": {
+    "english": "cops",
+    "french": "flics"
+  },
+  "874": {
+    "english": "to know",
+    "french": "connaître"
+  },
+  "875": {
+    "english": "letter",
+    "french": "lettre"
+  },
+  "876": {
+    "english": "form",
+    "french": "forme"
+  },
+  "877": {
+    "english": "knows",
+    "french": "connaît"
+  },
+  "878": {
+    "english": "advice",
+    "french": "conseil"
+  },
+  "879": {
+    "english": "bar",
+    "french": "bar"
+  },
+  "880": {
+    "english": "normal",
+    "french": "normal"
+  },
+  "881": {
+    "english": "danger",
+    "french": "danger"
+  },
+  "882": {
+    "english": "dangerous",
+    "french": "dangereux"
+  },
+  "883": {
+    "english": "crazy",
+    "french": "folle"
+  },
+  "884": {
+    "english": "swears",
+    "french": "jure"
+  },
+  "885": {
+    "english": "shot",
+    "french": "tiré"
+  },
+  "886": {
+    "english": "tries",
+    "french": "essaye"
+  },
+  "887": {
+    "english": "good",
+    "french": "bonnes"
+  },
+  "888": {
+    "english": "offer",
+    "french": "offre"
+  },
+  "889": {
+    "english": "goal",
+    "french": "but"
+  },
+  "890": {
+    "english": "cold",
+    "french": "froid"
+  },
+  "891": {
+    "english": "ready",
+    "french": "prêts"
+  },
+  "892": {
+    "english": "quiet",
+    "french": "tranquille"
+  },
+  "893": {
+    "english": "kid",
+    "french": "gamin"
+  },
+  "894": {
+    "english": "class",
+    "french": "classe"
+  },
+  "895": {
+    "english": "played",
+    "french": "joué"
+  },
+  "896": {
+    "english": "post",
+    "french": "poste"
+  },
+  "897": {
+    "english": "idiot",
+    "french": "con"
+  },
+  "898": {
+    "english": "attack",
+    "french": "attaque"
+  },
+  "899": {
+    "english": "box",
+    "french": "boîte"
+  },
+  "900": {
+    "english": "investigation",
+    "french": "enquête"
+  },
+  "901": {
+    "english": "visit",
+    "french": "visite"
+  },
+  "902": {
+    "english": "judge",
+    "french": "juge"
+  },
+  "903": {
+    "english": "edge",
+    "french": "bord"
+  },
+  "904": {
+    "english": "standing",
+    "french": "debout"
+  },
+  "905": {
+    "english": "sends",
+    "french": "envoie"
+  },
+  "906": {
+    "english": "proof",
+    "french": "preuve"
+  },
+  "907": {
+    "english": "to forget",
+    "french": "oublier"
+  },
+  "908": {
+    "english": "good",
+    "french": "bons"
+  },
+  "909": {
+    "english": "alive",
+    "french": "vivant"
+  },
+  "910": {
+    "english": "sky",
+    "french": "ciel"
+  },
+  "911": {
+    "english": "read",
+    "french": "lu"
+  },
+  "912": {
+    "english": "touches",
+    "french": "touche"
+  },
+  "913": {
+    "english": "to love",
+    "french": "aimer"
+  },
+  "914": {
+    "english": "TV",
+    "french": "télé"
+  },
+  "915": {
+    "english": "puts",
+    "french": "met"
+  },
+  "916": {
+    "english": "to listen",
+    "french": "écouter"
+  },
+  "917": {
+    "english": "you will be",
+    "french": "serez"
+  },
+  "918": {
+    "english": "however",
+    "french": "pourtant"
+  },
+  "919": {
+    "english": "changes",
+    "french": "change"
+  },
+  "920": {
+    "english": "sad",
+    "french": "triste"
+  },
+  "921": {
+    "english": "right",
+    "french": "droite"
+  },
+  "922": {
+    "english": "mouth",
+    "french": "gueule"
+  },
+  "923": {
+    "english": "falls",
+    "french": "tombe"
+  },
+  "924": {
+    "english": "to feel",
+    "french": "sentir"
+  },
+  "925": {
+    "english": "to open",
+    "french": "ouvrir"
+  },
+  "926": {
+    "english": "across",
+    "french": "travers"
+  },
+  "927": {
+    "english": "health",
+    "french": "santé"
+  },
+  "928": {
+    "english": "file",
+    "french": "dossier"
+  },
+  "929": {
+    "english": "young people",
+    "french": "jeunes"
+  },
+  "930": {
+    "english": "to go to bed",
+    "french": "coucher"
+  },
+  "931": {
+    "english": "kitchen",
+    "french": "cuisine"
+  },
+  "932": {
+    "english": "goes up",
+    "french": "monte"
+  },
+  "933": {
+    "english": "means",
+    "french": "signifie"
+  },
+  "934": {
+    "english": "come in",
+    "french": "entrez"
+  },
+  "935": {
+    "english": "relation",
+    "french": "relation"
+  },
+  "936": {
+    "english": "center",
+    "french": "centre"
+  },
+  "937": {
+    "english": "lady",
+    "french": "dame"
+  },
+  "938": {
+    "english": "each one",
+    "french": "chacun"
+  },
+  "939": {
+    "english": "song",
+    "french": "chanson"
+  },
+  "940": {
+    "english": "to hell with",
+    "french": "foutre"
+  },
+  "941": {
+    "english": "to steal",
+    "french": "voler"
+  },
+  "942": {
+    "english": "white",
+    "french": "blanc"
+  },
+  "943": {
+    "english": "certain",
+    "french": "certain"
+  },
+  "944": {
+    "english": "gift",
+    "french": "don"
+  },
+  "945": {
+    "english": "soul",
+    "french": "âme"
+  },
+  "946": {
+    "english": "way",
+    "french": "manière"
+  },
+  "947": {
+    "english": "cop",
+    "french": "flic"
+  },
+  "948": {
+    "english": "decision",
+    "french": "décision"
+  },
+  "949": {
+    "english": "eats",
+    "french": "mange"
+  },
+  "950": {
+    "english": "lives",
+    "french": "vit"
+  },
+  "951": {
+    "english": "company",
+    "french": "compagnie"
+  },
+  "952": {
+    "english": "lunch",
+    "french": "déjeuner"
+  },
+  "953": {
+    "english": "different",
+    "french": "différent"
+  },
+  "954": {
+    "english": "pulls",
+    "french": "tire"
+  },
+  "955": {
+    "english": "orders",
+    "french": "ordres"
+  },
+  "956": {
+    "english": "key",
+    "french": "clé"
+  },
+  "957": {
+    "english": "ship",
+    "french": "vaisseau"
+  },
+  "958": {
+    "english": "seconds",
+    "french": "secondes"
+  },
+  "959": {
+    "english": "hell",
+    "french": "enfer"
+  },
+  "960": {
+    "english": "get out",
+    "french": "sortez"
+  },
+  "961": {
+    "english": "to sell",
+    "french": "vendre"
+  },
+  "962": {
+    "english": "was doing",
+    "french": "faisais"
+  },
+  "963": {
+    "english": "responsible",
+    "french": "responsable"
+  },
+  "964": {
+    "english": "guys",
+    "french": "mecs"
+  },
+  "965": {
+    "english": "bad",
+    "french": "nulle"
+  },
+  "966": {
+    "english": "sign",
+    "french": "signe"
+  },
+  "967": {
+    "english": "lieutenant",
+    "french": "lieutenant"
+  },
+  "968": {
+    "english": "may go",
+    "french": "aille"
+  },
+  "969": {
+    "english": "bought",
+    "french": "acheté"
+  },
+  "970": {
+    "english": "devil",
+    "french": "diable"
+  },
+  "971": {
+    "english": "come",
+    "french": "viennent"
+  },
+  "972": {
+    "english": "strange",
+    "french": "étrange"
+  },
+  "973": {
+    "english": "to go up",
+    "french": "monter"
+  },
+  "974": {
+    "english": "capable",
+    "french": "capable"
+  },
+  "975": {
+    "english": "to take along",
+    "french": "emmener"
+  },
+  "976": {
+    "english": "to write",
+    "french": "écrire"
+  },
+  "977": {
+    "english": "shame",
+    "french": "honte"
+  },
+  "978": {
+    "english": "mouth",
+    "french": "bouche"
+  },
+  "979": {
+    "english": "prefers",
+    "french": "préfère"
+  },
+  "980": {
+    "english": "guilty",
+    "french": "coupable"
+  },
+  "981": {
+    "english": "to laugh",
+    "french": "rire"
+  },
+  "982": {
+    "english": "paid",
+    "french": "payé"
+  },
+  "983": {
+    "english": "care",
+    "french": "soin"
+  },
+  "984": {
+    "english": "middle",
+    "french": "milieu"
+  },
+  "985": {
+    "english": "apartment",
+    "french": "appartement"
+  },
+  "986": {
+    "english": "next",
+    "french": "prochain"
+  },
+  "987": {
+    "english": "brain",
+    "french": "cerveau"
+  },
+  "988": {
+    "english": "joke",
+    "french": "blague"
+  },
+  "989": {
+    "english": "chosen",
+    "french": "choisi"
+  },
+  "990": {
+    "english": "era",
+    "french": "époque"
+  },
+  "991": {
+    "english": "you will have",
+    "french": "aurez"
+  },
+  "992": {
+    "english": "way",
+    "french": "voie"
+  },
+  "993": {
+    "english": "meeting",
+    "french": "réunion"
+  },
+  "994": {
+    "english": "known",
+    "french": "connu"
+  },
+  "995": {
+    "english": "path",
+    "french": "allée"
+  },
+  "996": {
+    "english": "interest",
+    "french": "intérêt"
+  },
+  "997": {
+    "english": "horse",
+    "french": "cheval"
+  },
+  "998": {
+    "english": "combat",
+    "french": "combat"
+  },
+  "999": {
+    "english": "silence",
+    "french": "silence"
+  },
+  "1000": {
+    "english": "hits",
+    "french": "coups"
+  }
+}
