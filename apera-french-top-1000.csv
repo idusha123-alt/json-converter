@@ -1,0 +1,1001 @@
+rank,word,lemma,meaning
+1,de,de,of/from
+2,je,je,I
+3,est,être,is
+4,pas,pas,not
+5,le,le,the
+6,que,que,that
+7,la,la,the
+8,vous,vous,you
+9,tu,tu,you
+10,un,un,a/one
+11,à,à,to/at
+12,et,et,and
+13,il,il,he
+14,a,avoir,has
+15,ne,ne,not
+16,les,le,the
+17,en,en,in/of it
+18,on,on,we/one
+19,ça,ça,that
+20,une,un,a
+21,ce,ce,this/that
+22,pour,pour,for
+23,ai,avoir,have
+24,des,le,some
+25,qui,qui,who
+26,mais,mais,but
+27,dans,dans,in
+28,nous,nous,we
+29,elle,elle,she
+30,me,me,me
+31,bien,bien,well
+32,si,si,if
+33,du,de,of the/some
+34,y,y,there/it
+35,suis,être,am
+36,non,non,no
+37,avec,avec,with
+38,tout,tout,all/everything
+39,plus,plus,more
+40,mon,mon,my
+41,te,te,you
+42,au,à,to the
+43,fait,faire,done/made
+44,moi,moi,me
+45,oui,oui,yes
+46,va,aller,goes
+47,était,être,was
+48,as,avoir,have
+49,faire,faire,to do/make
+50,ils,il,they
+51,sur,sur,on
+52,quoi,quoi,what
+53,se,se,himself/herself
+54,comme,comme,as/like
+55,sais,savoir,know
+56,être,être,to be
+57,veux,vouloir,want
+58,ici,ici,here
+59,ma,mon,my
+60,toi,toi,you
+61,dit,dire,says/said
+62,lui,lui,him/her
+63,votre,votre,your
+64,es,être,are
+65,pourquoi,pourquoi,why
+66,où,où,where
+67,là,là,there
+68,rien,rien,nothing
+69,cette,ce,this
+70,sont,être,are
+71,quand,quand,when
+72,peux,pouvoir,can
+73,dire,dire,to say
+74,son,son,his/her
+75,avez,avoir,have
+76,vais,aller,go
+77,alors,alors,then/so
+78,ton,ton,your
+79,comment,comment,how
+80,par,par,by/through
+81,ou,ou,or
+82,chose,chose,thing
+83,bon,bon,good
+84,ont,avoir,have
+85,merci,merci,thank you
+86,juste,juste,just
+87,très,très,very
+88,jamais,jamais,never
+89,été,être,been
+90,aussi,aussi,also/too
+91,avoir,avoir,to have
+92,vraiment,vraiment,really
+93,voir,voir,to see
+94,même,même,same/even
+95,sa,son,his/her
+96,oh,oh,oh
+97,maintenant,maintenant,now
+98,tous,tout,all
+99,peut,pouvoir,can
+100,deux,deux,two
+101,ces,ce,these
+102,êtes,être,are
+103,allez,aller,go
+104,ta,ton,your
+105,autre,autre,other
+106,peu,peu,little/few
+107,temps,temps,time
+108,quelque,quelque,some
+109,fais,faire,do/make
+110,toujours,toujours,always
+111,encore,encore,again
+112,notre,notre,our
+113,mes,mon,my
+114,besoin,besoin,need
+115,avait,avoir,had
+116,accord,accord,agreement
+117,faut,falloir,must/necessary
+118,dois,devoir,must
+119,vie,vie,life
+120,aller,aller,to go
+121,fois,fois,time (occurrence)
+122,vu,voir,seen
+123,donc,donc,so/therefore
+124,sans,sans,without
+125,monde,monde,world
+126,étais,être,was
+127,parce,parce,because
+128,avant,avant,before
+129,sûr,sûr,sure
+130,trop,trop,too much
+131,parler,parler,to speak
+132,personne,personne,person
+133,avais,avoir,had
+134,père,père,father
+135,crois,croire,believe
+136,après,après,after
+137,aux,à,to the
+138,dieu,dieu,god
+139,ouais,ouais,yeah
+140,ses,son,his/her
+141,pense,penser,thinks
+142,eu,avoir,had
+143,aime,aimer,loves/likes
+144,leur,leur,their/them
+145,homme,homme,man
+146,viens,venir,come
+147,vrai,vrai,true
+148,femme,femme,woman
+149,ok,ok,ok
+150,doit,devoir,must
+151,veut,vouloir,wants
+152,ans,an,years
+153,mal,mal,badly
+154,chez,chez,at (someone's place)
+155,déjà,déjà,already
+156,depuis,depuis,since
+157,beaucoup,beaucoup,a lot/much
+158,vos,votre,your
+159,bonne,bon,good
+160,mort,mort,dead
+161,mieux,mieux,better
+162,vas,aller,go
+163,mère,mère,mother
+164,sera,être,will be
+165,dis,dire,say
+166,fille,fille,girl
+167,tes,ton,your
+168,gens,gens,people
+169,quel,quel,which/what
+170,vois,voir,see
+171,désolé,désolé,sorry
+172,voilà,voilà,there it is
+173,avons,avoir,have
+174,petit,petit,small
+175,maison,maison,house
+176,soit,être,be (it may be)
+177,cela,cela,that
+178,autres,autre,others
+179,toute,tout,all
+180,soir,soir,evening
+181,passé,passer,past
+182,prendre,prendre,to take
+183,jour,jour,day
+184,monsieur,monsieur,mister
+185,nos,notre,our
+186,savoir,savoir,to know
+187,choses,chose,things
+188,salut,salut,hi
+189,cet,ce,this
+190,nom,nom,name
+191,argent,argent,money
+192,bonjour,bonjour,hello
+193,nuit,nuit,night
+194,raison,raison,reason
+195,moins,moins,less
+196,arrive,arriver,arrives
+197,maman,maman,mom
+198,reste,rester,remains
+199,moment,moment,moment
+200,voulais,vouloir,wanted
+201,seul,seul,alone
+202,aider,aider,to help
+203,air,air,air
+204,entre,entre,between
+205,papa,papa,dad
+206,passe,passer,passes
+207,aurais,avoir,would have
+208,problème,problème,problem
+209,ah,ah,ah
+210,peur,peur,fear
+211,regarde,regarder,looks/watches
+212,voulez,vouloir,want
+213,gars,gars,guy
+214,trouvé,trouver,found
+215,fils,fils,son
+216,attends,attendre,wait
+217,savez,savoir,know
+218,trouver,trouver,to find
+219,trois,trois,three
+220,assez,assez,enough
+221,famille,famille,family
+222,dû,devoir,had to
+223,eh,eh,eh
+224,toutes,tout,all
+225,plaît,plaire,pleases
+226,pourrait,pouvoir,could
+227,travail,travail,work
+228,pris,prendre,taken
+229,pu,pouvoir,could
+230,tête,tête,head
+231,quelle,quel,which/what
+232,sait,savoir,knows
+233,sommes,être,are
+234,appelle,appeler,calls
+235,quelques,quelque,a few
+236,faites,faire,do/make
+237,partir,partir,to leave
+238,vite,vite,quickly
+239,arrête,arrêter,stop
+240,seule,seul,alone
+241,serait,être,would be
+242,voiture,voiture,car
+243,enfants,enfant,children
+244,tuer,tuer,to kill
+245,merde,merde,shit
+246,hé,hé,hey
+247,pendant,pendant,during
+248,idée,idée,idea
+249,chance,chance,luck
+250,parle,parler,speaks
+251,aurait,avoir,would have
+252,part,part,part/share
+253,elles,elle,they
+254,jours,jour,days
+255,grand,grand,big
+256,venir,venir,to come
+257,ami,ami,friend
+258,demain,demain,tomorrow
+259,hein,hein,huh
+260,tard,tard,late
+261,puis,puis,then
+262,truc,truc,thing
+263,passer,passer,to pass
+264,petite,petit,small
+265,tant,tant,so much
+266,connais,connaître,know
+267,combien,combien,how much/many
+268,mec,mec,guy
+269,sens,sens,sense
+270,pouvez,pouvoir,can
+271,porte,porte,door
+272,sortir,sortir,to go out
+273,super,super,great
+274,heure,heure,hour
+275,contre,contre,against
+276,coup,coup,blow/strike
+277,comprends,comprendre,understand
+278,entendu,entendre,heard
+279,vient,venir,comes
+280,allons,aller,let's go
+281,ensemble,ensemble,together
+282,nouveau,nouveau,new
+283,amour,amour,love
+284,importe,importer,matters
+285,sang,sang,blood
+286,désolée,désolé,sorry
+287,cas,cas,case
+288,sous,sous,under
+289,rester,rester,to stay
+290,amis,ami,friends
+291,prends,prendre,take
+292,fini,finir,finished
+293,hommes,homme,men
+294,tué,tuer,killed
+295,question,question,question
+296,partie,partie,part
+297,histoire,histoire,story
+298,devrais,devoir,should
+299,aide,aider,help
+300,dernière,dernier,last
+301,demande,demander,asks
+302,chercher,chercher,to look for
+303,pensais,penser,thought
+304,genre,genre,kind/type
+305,seulement,seulement,only
+306,police,police,police
+307,car,car,because
+308,mois,mois,month
+309,frère,frère,brother
+310,laisser,laisser,to let/leave
+311,aucun,aucun,no/none
+312,mettre,mettre,to put
+313,eux,eux,them
+314,laisse,laisser,lets
+315,chaque,chaque,each
+316,ville,ville,city
+317,arrivé,arriver,arrived
+318,devrait,devoir,should
+319,parlé,parler,spoken
+320,vont,aller,go
+321,longtemps,longtemps,a long time
+322,aucune,aucun,no/none
+323,heures,heure,hours
+324,bébé,bébé,baby
+325,place,place,place
+326,revoir,revoir,to see again
+327,putain,putain,damn/whore
+328,compris,comprendre,understood
+329,ni,ni,neither/nor
+330,savais,savoir,knew
+331,leurs,leur,their
+332,étaient,être,were
+333,attention,attention,attention
+334,donner,donner,to give
+335,affaire,affaire,matter/business
+336,endroit,endroit,place
+337,pourrais,pouvoir,could
+338,corps,corps,body
+339,façon,façon,way/manner
+340,donné,donner,given
+341,voici,voici,here is
+342,train,train,train
+343,dont,dont,whose/of which
+344,écoute,écouter,listens
+345,yeux,oeil,eyes
+346,trouve,trouver,finds
+347,pouvoir,pouvoir,to be able to
+348,type,type,type
+349,perdu,perdre,lost
+350,premier,premier,first
+351,première,premier,first
+352,côté,côté,side
+353,point,point,point
+354,tellement,tellement,so much
+355,main,main,hand
+356,tiens,tenir,hold
+357,sois,être,be
+358,enfant,enfant,child
+359,vieux,vieux,old
+360,matin,matin,morning
+361,venu,venir,come
+362,pardon,pardon,pardon
+363,suite,suite,continuation
+364,vers,vers,towards
+365,minutes,minute,minutes
+366,demandé,demander,asked
+367,venez,venir,come
+368,devant,devant,in front of
+369,enfin,enfin,finally
+370,arrêter,arrêter,to stop
+371,cause,cause,cause
+372,nouvelle,nouveau,new
+373,attendez,attendre,wait
+374,chambre,chambre,room
+375,droit,droit,right/straight
+376,parti,partir,left
+377,mis,mettre,put
+378,eau,eau,water
+379,compte,compter,counts
+380,dirait,dire,would say
+381,terre,terre,earth/land
+382,belle,beau,beautiful
+383,espère,espérer,hopes
+384,aimerais,aimer,would like
+385,loin,loin,far
+386,mari,mari,husband
+387,donne,donner,gives
+388,fin,fin,end
+389,croire,croire,to believe
+390,aura,avoir,will have
+391,gros,gros,big/fat
+392,boulot,boulot,job (slang)
+393,plutôt,plutôt,rather
+394,chérie,chéri,darling
+395,prêt,prêt,ready
+396,filles,fille,girls
+397,bureau,bureau,office/desk
+398,mourir,mourir,to die
+399,hier,hier,yesterday
+400,possible,possible,possible
+401,jouer,jouer,to play
+402,demander,demander,to ask
+403,celui,celui,the one (m)
+404,voulait,vouloir,wanted
+405,beau,beau,handsome
+406,jeune,jeune,young
+407,euh,euh,um/uh
+408,dehors,dehors,outside
+409,docteur,docteur,doctor
+410,confiance,confiance,trust
+411,appeler,appeler,to call
+412,années,année,years
+413,vérité,vérité,truth
+414,école,école,school
+415,chef,chef,boss
+416,femmes,femme,women
+417,propos,propos,remarks/subject
+418,semaine,semaine,week
+419,vivre,vivre,to live
+420,regardez,regarder,look
+421,feu,feu,fire
+422,journée,journée,day
+423,madame,madame,madam
+424,hey,hey,hey
+425,téléphone,téléphone,telephone
+426,près,près,near
+427,affaires,affaire,business/things
+428,meilleur,meilleur,better/best
+429,devez,devoir,must/have to
+430,dessus,dessus,on top/above
+431,mains,main,hands
+432,penses,penser,you think
+433,prie,prier,prays
+434,équipe,équipe,team
+435,grande,grand,big
+436,manger,manger,to eat
+437,arriver,arriver,to arrive/happen
+438,dur,dur,hard
+439,guerre,guerre,war
+440,ait,avoir,(that) he/she has
+441,appelé,appeler,called
+442,marche,marcher,walks
+443,sécurité,sécurité,security
+444,garçon,garçon,boy
+445,essaie,essayer,tries
+446,important,important,important
+447,dites,dire,say
+448,exactement,exactement,exactly
+449,font,faire,they do/make
+450,fort,fort,strong
+451,presque,presque,almost
+452,plein,plein,full
+453,derrière,derrière,behind
+454,ben,ben,well/uh
+455,mariage,mariage,marriage
+456,parents,parent,parents
+457,capitaine,capitaine,captain
+458,dernier,dernier,last
+459,fou,fou,crazy
+460,ceux,celui,those (m)
+461,tomber,tomber,to fall
+462,attendre,attendre,to wait
+463,vue,vue,view/sight
+464,pensé,penser,thought
+465,souviens,souvenir,remember
+466,envie,envie,desire/urge
+467,fête,fête,party
+468,jeu,jeu,game
+469,génial,génial,awesome/great
+470,pays,pays,country
+471,garde,garde,guard
+472,cours,cours,course/class
+473,bientôt,bientôt,soon
+474,numéro,numéro,number
+475,personnes,personne,people
+476,cinq,cinq,five
+477,parfait,parfait,perfect
+478,laissé,laisser,left/let
+479,ainsi,ainsi,thus/so
+480,retour,retour,return
+481,semble,sembler,seems
+482,autant,autant,as much
+483,peine,peine,pain/effort
+484,minute,minute,minute
+485,essayé,essayer,tried
+486,plan,plan,plan
+487,instant,instant,moment
+488,serai,être,I will be
+489,prison,prison,prison
+490,penser,penser,to think
+491,essayer,essayer,to try
+492,prend,prendre,takes
+493,arme,arme,weapon
+494,mauvais,mauvais,bad
+495,mot,mot,word
+496,travailler,travailler,to work
+497,quatre,quatre,four
+498,rentrer,rentrer,to go home
+499,regarder,regarder,to look/watch
+500,choix,choix,choice
+501,parfois,parfois,sometimes
+502,film,film,movie
+503,abord,abord,first/approach
+504,voyez,voir,you see
+505,faute,faute,fault/mistake
+506,facile,facile,easy
+507,croyais,croire,believed/thought
+508,bas,bas,low
+509,changer,changer,to change
+510,entendre,entendre,to hear
+511,plaisir,plaisir,pleasure
+512,heureux,heureux,happy
+513,entrer,entrer,to enter
+514,voudrais,vouloir,I would like
+515,propre,propre,clean/own
+516,étiez,être,you were
+517,tour,tour,turn/tower
+518,fera,faire,will do/make
+519,ensuite,ensuite,then
+520,garder,garder,to keep
+521,agent,agent,agent/officer
+522,allait,aller,was going
+523,lit,lit,bed
+524,travaille,travailler,works
+525,adore,adorer,loves/adores
+526,amie,ami,friend (f)
+527,rendre,rendre,to give back/render
+528,route,route,road
+529,lieu,lieu,place
+530,année,année,year
+531,voit,voir,sees
+532,commence,commencer,begins
+533,service,service,service
+534,devoir,devoir,duty/must
+535,attend,attendre,waits
+536,drôle,drôle,funny
+537,difficile,difficile,difficult
+538,sûre,sûr,sure
+539,pire,pire,worse
+540,peuvent,pouvoir,can/are able
+541,sujet,sujet,subject
+542,état,état,state
+543,ceci,ceci,this
+544,impossible,impossible,impossible
+545,sorte,sorte,sort/kind
+546,perdre,perdre,to lose
+547,dollars,dollar,dollars
+548,voulu,vouloir,wanted
+549,morte,mort,dead (f)
+550,ira,aller,will go
+551,faisait,faire,was doing
+552,bizarre,bizarre,weird
+553,oublié,oublier,forgotten
+554,arrêtez,arrêter,stop!
+555,ferai,faire,I will do/make
+556,serais,être,would be
+557,tôt,tôt,early
+558,inquiète,inquiéter,worries
+559,payer,payer,to pay
+560,coeur,cœur,heart
+561,dès,dès,since/from
+562,pouvais,pouvoir,could
+563,reviens,revenir,come back
+564,chien,chien,dog
+565,suffit,suffire,is enough
+566,prenez,prendre,take
+567,pensez,penser,you think
+568,café,café,coffee
+569,calme,calme,calm
+570,cherche,chercher,looks for
+571,montrer,montrer,to show
+572,parles,parler,you speak
+573,photo,photo,photo
+574,ferme,fermer,closes/shuts
+575,problèmes,problème,problems
+576,cœur,cœur,heart
+577,sûrement,sûrement,surely
+578,verre,verre,glass
+579,aimes,aimer,you love
+580,devons,devoir,we must
+581,veulent,vouloir,they want
+582,doute,doute,doubt
+583,musique,musique,music
+584,courant,courant,current/common
+585,sauf,sauf,except
+586,moyen,moyen,means/average
+587,nouvelles,nouvelle,news
+588,avis,avis,opinion
+589,sauver,sauver,to save
+590,hôpital,hôpital,hospital
+591,questions,question,questions
+592,meurtre,meurtre,murder
+593,sérieux,sérieux,serious
+594,seconde,seconde,second
+595,trucs,truc,stuff/things
+596,comprendre,comprendre,to understand
+597,allais,aller,was going
+598,esprit,esprit,mind/spirit
+599,cool,cool,cool
+600,marché,marché,market
+601,fous,fou,crazy (pl)
+602,haut,haut,high
+603,salle,salle,room
+604,malade,malade,sick
+605,changé,changer,changed
+606,gentil,gentil,kind/nice
+607,allé,aller,gone
+608,six,six,six
+609,simple,simple,simple
+610,semaines,semaine,weeks
+611,celle,celui,the one (f)
+612,appris,apprendre,learned
+613,seigneur,seigneur,lord
+614,dîner,dîner,dinner
+615,sors,sortir,go out / get out!
+616,commencé,commencer,begun/started
+617,suppose,supposer,suppose(s)
+618,chemin,chemin,path
+619,partout,partout,everywhere
+620,bras,bras,arm(s)
+621,cul,cul,butt (vulgar)
+622,prochaine,prochain,next
+623,visage,visage,face
+624,meilleure,meilleur,better/best (f)
+625,face,face,face/front
+626,soirée,soirée,evening/party
+627,roi,roi,king
+628,surtout,surtout,especially
+629,retard,retard,delay/lateness
+630,écrit,écrire,written
+631,livre,livre,book/pound
+632,rapport,rapport,report/connection
+633,chéri,chéri,darling
+634,message,message,message
+635,vaut,valoir,is worth
+636,ferais,faire,would do
+637,morts,mort,dead (pl)
+638,boire,boire,to drink
+639,soyez,être,be!
+640,président,président,president
+641,plait,plaire,pleases
+642,bois,bois,wood
+643,sinon,sinon,otherwise
+644,erreur,erreur,error
+645,rentre,rentrer,goes home
+646,devait,devoir,had to
+647,revenir,revenir,to come back
+648,joue,jouer,plays
+649,pauvre,pauvre,poor
+650,devenir,devenir,to become
+651,rencontrer,rencontrer,to meet
+652,sort,sort,fate/spell
+653,commencer,commencer,to begin
+654,pouvait,pouvoir,could
+655,occupe,occuper,takes care of/occupies
+656,entends,entendre,hear
+657,souvent,souvent,often
+658,pièce,pièce,room/piece
+659,reçu,recevoir,received
+660,grave,grave,serious
+661,mets,mettre,put
+662,intérieur,intérieur,interior/inside
+663,honneur,honneur,honor
+664,dormir,dormir,to sleep
+665,an,an,year
+666,faux,faux,false/fake
+667,messieurs,monsieur,gentlemen
+668,groupe,groupe,group
+669,rêve,rêve,dream
+670,carte,carte,card/map
+671,aviez,avoir,you had
+672,appel,appel,call
+673,manque,manquer,lacks/misses
+674,envoyé,envoyer,sent
+675,début,début,beginning
+676,puisse,pouvoir,(that) can
+677,écoutez,écouter,listen
+678,bonsoir,bonsoir,good evening
+679,content,content,happy/satisfied
+680,secret,secret,secret
+681,venue,venir,came (f)
+682,cher,cher,dear/expensive
+683,effet,effet,effect
+684,voyons,voir,let's see / we see
+685,sac,sac,bag
+686,continue,continuer,continues
+687,acheter,acheter,to buy
+688,voix,voix,voice
+689,certains,certain,some/certain
+690,occuper,occuper,to occupy
+691,noël,noël,Christmas
+692,gagner,gagner,to win/earn
+693,grâce,grâce,grace/thanks to
+694,maître,maître,master/teacher
+695,prix,prix,price/prize
+696,mauvaise,mauvais,bad (f)
+697,général,général,general
+698,âge,âge,age
+699,long,long,long
+700,rue,rue,street
+701,tirer,tirer,to pull/shoot
+702,apprendre,apprendre,to learn
+703,cheveux,cheveu,hair
+704,noir,noir,black
+705,promis,promettre,promised
+706,avaient,avoir,they had
+707,patron,patron,boss
+708,avocat,avocat,lawyer
+709,force,force,force
+710,accident,accident,accident
+711,dix,dix,ten
+712,probablement,probablement,probably
+713,laissez,laisser,let/leave
+714,bout,bout,end/tip
+715,ordre,ordre,order
+716,armes,arme,weapons
+717,cru,croire,believed
+718,déteste,détester,hates
+719,retrouver,retrouver,to find again
+720,millions,million,millions
+721,incroyable,incroyable,incredible
+722,voyage,voyage,trip
+723,ailleurs,ailleurs,elsewhere
+724,oublie,oublier,forgets
+725,ressemble,ressembler,resembles
+726,bienvenue,bienvenue,welcome
+727,disparu,disparaître,disappeared
+728,protéger,protéger,to protect
+729,utiliser,utiliser,to use
+730,situation,situation,situation
+731,petits,petit,small (pl)
+732,aurai,avoir,I will have
+733,connaissez,connaître,you know
+734,simplement,simplement,simply
+735,scène,scène,scene/stage
+736,sœur,sœur,sister
+737,prête,prêt,ready
+738,oncle,oncle,uncle
+739,devriez,devoir,you should
+740,liste,liste,list
+741,soeur,soeur,sister
+742,complètement,complètement,completely
+743,dos,dos,back
+744,armée,armée,army
+745,paix,paix,peace
+746,battre,battre,to beat/fight
+747,crime,crime,crime
+748,anniversaire,anniversaire,birthday
+749,finir,finir,to finish
+750,réussi,réussir,succeeded
+751,agit,agir,acts/is about
+752,retourner,retourner,to go back
+753,sale,sale,dirty
+754,libre,libre,free
+755,bouge,bouger,moves
+756,contrôle,contrôle,control
+757,rappelle,rappeler,calls back
+758,arrêté,arrêter,stopped/arrested
+759,hôtel,hôtel,hotel
+760,idiot,idiot,idiot
+761,okay,okay,okay
+762,rencontré,rencontrer,met
+763,restez,rester,stay
+764,absolument,absolument,absolutely
+765,mots,mot,words
+766,victime,victime,victim
+767,impression,impression,impression
+768,décidé,décider,decided
+769,sympa,sympa,nice
+770,pars,partir,leave/go
+771,fasse,faire,may do
+772,avion,avion,airplane
+773,bordel,bordel,mess
+774,habitude,habitude,habit
+775,table,table,table
+776,rouge,rouge,red
+777,système,système,system
+778,photos,photo,photos
+779,médecin,médecin,doctor
+780,seras,être,you will be
+781,bateau,bateau,boat
+782,stupide,stupide,stupid
+783,faim,faim,hunger
+784,autour,autour,around
+785,fond,fond,bottom/background
+786,surprise,surprise,surprise
+787,croyez,croire,you believe
+788,devais,devoir,had to
+789,ligne,ligne,line
+790,porter,porter,to carry
+791,imagine,imaginer,imagines
+792,colère,colère,anger
+793,clair,clair,clear
+794,seront,être,they will be
+795,savait,savoir,knew
+796,balle,balle,ball
+797,gagné,gagner,won
+798,or,or,gold
+799,hors,hors,outside of
+800,magnifique,magnifique,magnificent
+801,risque,risque,risk
+802,terminé,terminer,finished
+803,su,savoir,known
+804,heureuse,heureux,happy (f)
+805,mission,mission,mission
+806,jolie,joli,pretty
+807,parlez,parler,you speak
+808,présent,présent,present
+809,sorti,sortir,went out
+810,cadeau,cadeau,gift
+811,expliquer,expliquer,to explain
+812,volé,voler,stolen
+813,plusieurs,plusieurs,several
+814,gauche,gauche,left
+815,ferait,faire,would do
+816,neuf,neuf,nine
+817,ouvre,ouvrir,opens
+818,disais,dire,said
+819,dedans,dedans,inside
+820,disent,dire,say
+821,pouvons,pouvoir,we can
+822,suivre,suivre,to follow
+823,pourra,pouvoir,will be able to
+824,inspecteur,inspecteur,inspector
+825,réponse,réponse,answer
+826,lumière,lumière,light
+827,pieds,pied,feet
+828,pote,pote,buddy
+829,montre,montre,watch
+830,pied,pied,foot
+831,marcher,marcher,to walk
+832,auras,avoir,you will have
+833,envoyer,envoyer,to send
+834,vraie,vrai,true
+835,espèce,espèce,kind/species
+836,doivent,devoir,must
+837,allô,allô,hello (phone)
+838,pareil,pareil,similar
+839,soleil,soleil,sun
+840,camp,camp,camp
+841,fallait,falloir,was necessary
+842,coin,coin,corner
+843,ignore,ignorer,doesn't know
+844,moitié,moitié,half
+845,selon,selon,according to
+846,tenir,tenir,to hold
+847,grosse,gros,big
+848,vouloir,vouloir,to want
+849,vieille,vieux,old
+850,devenu,devenir,become
+851,continuer,continuer,to continue
+852,rend,rendre,makes
+853,sortie,sortie,exit
+854,recherche,recherche,research
+855,arrière,arrière,back
+856,lire,lire,to read
+857,doucement,doucement,gently
+858,joli,joli,pretty
+859,avance,avance,advance
+860,exact,exact,exact
+861,disait,dire,said
+862,club,club,club
+863,arrivée,arrivée,arrival
+864,tue,tuer,kills
+865,laquelle,lequel,which one
+866,chaud,chaud,hot
+867,poser,poser,to put
+868,aimé,aimer,loved
+869,professeur,professeur,teacher/professor
+870,quitter,quitter,to leave
+871,loi,loi,law
+872,tueur,tueur,killer
+873,flics,flic,cops
+874,connaître,connaître,to know
+875,lettre,lettre,letter
+876,forme,forme,form
+877,connaît,connaître,knows
+878,conseil,conseil,advice
+879,bar,bar,bar
+880,normal,normal,normal
+881,danger,danger,danger
+882,dangereux,dangereux,dangerous
+883,folle,fou,crazy
+884,jure,jurer,swears
+885,tiré,tirer,shot
+886,essaye,essayer,tries
+887,bonnes,bon,good
+888,offre,offre,offer
+889,but,but,goal
+890,froid,froid,cold
+891,prêts,prêt,ready
+892,tranquille,tranquille,quiet
+893,gamin,gamin,kid
+894,classe,classe,class
+895,joué,jouer,played
+896,poste,poste,post
+897,con,con,idiot
+898,attaque,attaque,attack
+899,boîte,boîte,box
+900,enquête,enquête,investigation
+901,visite,visite,visit
+902,juge,juge,judge
+903,bord,bord,edge
+904,debout,debout,standing
+905,envoie,envoyer,sends
+906,preuve,preuve,proof
+907,oublier,oublier,to forget
+908,bons,bon,good
+909,vivant,vivant,alive
+910,ciel,ciel,sky
+911,lu,lire,read
+912,touche,toucher,touches
+913,aimer,aimer,to love
+914,télé,télé,TV
+915,met,mettre,puts
+916,écouter,écouter,to listen
+917,serez,être,you will be
+918,pourtant,pourtant,however
+919,change,changer,changes
+920,triste,triste,sad
+921,droite,droit,right
+922,gueule,gueule,mouth
+923,tombe,tomber,falls
+924,sentir,sentir,to feel
+925,ouvrir,ouvrir,to open
+926,travers,travers,across
+927,santé,santé,health
+928,dossier,dossier,file
+929,jeunes,jeune,young people
+930,coucher,coucher,to go to bed
+931,cuisine,cuisine,kitchen
+932,monte,monter,goes up
+933,signifie,signifier,means
+934,entrez,entrer,come in
+935,relation,relation,relation
+936,centre,centre,center
+937,dame,dame,lady
+938,chacun,chacun,each one
+939,chanson,chanson,song
+940,foutre,foutre,to hell with
+941,voler,voler,to steal
+942,blanc,blanc,white
+943,certain,certain,certain
+944,don,don,gift
+945,âme,âme,soul
+946,manière,manière,way
+947,flic,flic,cop
+948,décision,décision,decision
+949,mange,manger,eats
+950,vit,vivre,lives
+951,compagnie,compagnie,company
+952,déjeuner,déjeuner,lunch
+953,différent,différent,different
+954,tire,tirer,pulls
+955,ordres,ordre,orders
+956,clé,clé,key
+957,vaisseau,vaisseau,ship
+958,secondes,seconde,seconds
+959,enfer,enfer,hell
+960,sortez,sortir,get out
+961,vendre,vendre,to sell
+962,faisais,faire,was doing
+963,responsable,responsable,responsible
+964,mecs,mec,guys
+965,nulle,nul,bad
+966,signe,signe,sign
+967,lieutenant,lieutenant,lieutenant
+968,aille,aller,may go
+969,acheté,acheter,bought
+970,diable,diable,devil
+971,viennent,venir,come
+972,étrange,étrange,strange
+973,monter,monter,to go up
+974,capable,capable,capable
+975,emmener,emmener,to take along
+976,écrire,écrire,to write
+977,honte,honte,shame
+978,bouche,bouche,mouth
+979,préfère,préférer,prefers
+980,coupable,coupable,guilty
+981,rire,rire,to laugh
+982,payé,payer,paid
+983,soin,soin,care
+984,milieu,milieu,middle
+985,appartement,appartement,apartment
+986,prochain,prochain,next
+987,cerveau,cerveau,brain
+988,blague,blague,joke
+989,choisi,choisir,chosen
+990,époque,époque,era
+991,aurez,avoir,you will have
+992,voie,voie,way
+993,réunion,réunion,meeting
+994,connu,connaître,known
+995,allée,allée,path
+996,intérêt,intérêt,interest
+997,cheval,cheval,horse
+998,combat,combat,combat
+999,silence,silence,silence
+1000,coups,coup,hits
