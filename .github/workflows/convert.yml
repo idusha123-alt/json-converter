@@ -1,9 +1,9 @@
-name: Convert TXT to JSON
+name: Convert CSV to JSON
 
 on:
   push:
-    branches: [ main ] # Runs automatically on push to main branch
-  workflow_dispatch:   # Allows you to trigger it manually from the Actions tab
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   convert:
@@ -19,12 +19,12 @@ jobs:
           python-version: '3.x'
 
       - name: Run conversion script
-        run: python convert.py
+        run: python convert_csv.py
 
       - name: Commit and push generated JSON
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add frequency-list.json
-          git diff-index --quiet HEAD || git commit -m "Auto-generate frequency-list.json"
+          git add apera-french-top-1000.json
+          git diff-index --quiet HEAD || git commit -m "Auto-generate apera-french-top-1000.json"
           git push
